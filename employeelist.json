@@ -1,0 +1,947 @@
+[
+  {
+    "about" : "Grew up a military brat chasing squids and eels at 8 years old in the pacific islands. Avid mountain biker. Alaska State Motocross Champion. Zero to 4 kids in 2 years.",
+    "id" : 1,
+    "title" : "Product Director",
+    "name" : "Brian Lampright",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "100mi Longest Family Mountain Bike Adventure"
+      },
+      {
+        "id" : 2,
+        "body" : "2000gal of Petrol per year"
+      },
+      {
+        "id" : 3,
+        "body" : "Offsets carbon footprint with solar power :)"
+      }
+    ]
+  },
+  {
+    "about" : "Compulsive organizer, lover of design, beauty and fashion, budding world traveler, mom of boys and a Labrador, protector of elephants",
+    "id" : 2,
+    "title" : "Group Account Director",
+    "name" : "Marina Riedel",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "685,481 # of miles flown"
+      },
+      {
+        "id" : 2,
+        "body" : "99+ percentile scored on every standardized test ever taken"
+      },
+      {
+        "id" : 3,
+        "body" : "5 # of people in the world I completely trust"
+      }
+    ]
+  },
+  {
+    "about" : "Steve Job's and Lady Gaga's secret love child, tabby cat enthusiast, loves technology more than Daft Punk",
+    "id" : 3,
+    "title" : "Designer",
+    "name" : "Johurimam Noah Kuddus",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "138 Nintendo games, Metroid, Zelda, All of the above"
+      },
+      {
+        "id" : 2,
+        "body" : "Font rapper name: Papy Rus"
+      },
+      {
+        "id" : 3,
+        "body" : "42 inches cumulative platform shoe height"
+      }
+    ]
+  },
+  {
+    "about" : "Avid traveler, single mother of 4 (including identical twin boys), love to read, learn, organize & help others, part owner in a ranch",
+    "id" : 4,
+    "title" : "Account Supervisor",
+    "name" : "Christine Southwick",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Beekeeper to 60,000 plus bees"
+      },
+      {
+        "id" : 2,
+        "body" : "Lived in 7 states, vacationed in 12 countries and 29 states, more to come!"
+      },
+      {
+        "id" : 3,
+        "body" : "Constantly approached by friends & strangers to listen to their deepest problems & secrets"
+      }
+    ]
+  },
+  {
+    "about" : "Designer, CrossFitter, sane cat lady, mountain craver, upbeat feminist",
+    "id" : 5,
+    "title" : "Designer",
+    "name" : "Mandy Booth",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Rough annual pull-up count: 2,937"
+      },
+      {
+        "id" : 2,
+        "body" : "Font rapper name: Booth Antiqua"
+      },
+      {
+        "id" : 3,
+        "body" : "Fueled by weird balance of espresso and anxiety"
+      }
+    ]
+  },
+  {
+    "about" : "Botany lover, #1 Patriots hater, Ravenclaw \/ ENTJ \/ Earth Bender, Stephen Colbert’s future wife",
+    "id" : 6,
+    "title" : "Senior Designer",
+    "name" : "Raisa Kuddus",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Hours of Sims (1,2,3 & 4) played in my lifetime: 7,442"
+      },
+      {
+        "id" : 2,
+        "body" : "Font rapper name: Wing Dinga"
+      },
+      {
+        "id" : 3,
+        "body" : "Zero # of cavities and broken bones"
+      }
+    ]
+  },
+  {
+    "about" : "Geek, bon vivant, gamer, sous chef, gin devotee",
+    "id" : 7,
+    "title" : "Front-end Developer",
+    "name" : "Chris Connelley",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Aesthete of music, art, literature, nature, and people"
+      },
+      {
+        "id" : 2,
+        "body" : "Over 10,000 hours of roleplaying as sorcerers, spies, supers, and supernatural"
+      },
+      {
+        "id" : 3,
+        "body" : "Owner of over a dozen bow ties and two score cufflinks"
+      }
+    ]
+  },
+  {
+    "about" : "Inventor, ukulele lover, the &quot;fun&quot; grandpa. A pillow is my peace of mind.",
+    "id" : 8,
+    "title" : "VP of Strategy",
+    "name" : "Steve Parker",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "1,113 songs performed in private every year"
+      },
+      {
+        "id" : 2,
+        "body" : "Possess 9 out of 10 ‘good husband’ traits"
+      },
+      {
+        "id" : 3,
+        "body" : "After visiting 63 countries, thinking is the best way to travel"
+      }
+    ]
+  },
+  {
+    "about" : "Family man and love it, avid listener of podcasts and audiobooks, Excel nerd, have brother named Matt Hardy – neither of us in WWE",
+    "id" : 9,
+    "title" : "  ",
+    "name" : "Jeff Hardy",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "1,922 hours listening to Audible books"
+      },
+      {
+        "id" : 2,
+        "body" : "Weekend-warrior soccer player"
+      },
+      {
+        "id" : 3,
+        "body" : "Most people I meet know a doppelgänger of me"
+      }
+    ]
+  },
+  {
+    "about" : "Formerly Gossip Girl. A silmarillionaire and ambiturner. Continually disappointed Joe fan. Abides.",
+    "id" : 10,
+    "title" : "Senior Copywriter",
+    "name" : "Nate Parkinson",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Number of times talents were taken to South Beach: 0"
+      },
+      {
+        "id" : 2,
+        "body" : "Free Solo First Ascents: 4"
+      },
+      {
+        "id" : 3,
+        "body" : "Favorite Pokémon: Curmudgeon"
+      }
+    ]
+  },
+  {
+    "about" : "Lover of country music, reading, and reality TV. Traveler. Athlete",
+    "id" : 11,
+    "title" : "Account Manager",
+    "name" : "Jessica Evans",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Diet consists of Chili's chips & salsa or Chinese food"
+      },
+      {
+        "id" : 2,
+        "body" : "My Patronus is Taylor Swift"
+      },
+      {
+        "id" : 3,
+        "body" : "Happiness comes from crossing things off a list"
+      }
+    ]
+  },
+  {
+    "about" : "Enabler, serial organizer, tattoo aficionado, hockey junkie, boxing wannabe, adorer of tiny humans, consumer of brown liquor, coolest mom ever.",
+    "id" : 12,
+    "title" : "Program Director",
+    "name" : "Lisa Stewart",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Over 1.35 million punches thrown. Zero landed on a human face. Yet."
+      },
+      {
+        "id" : 2,
+        "body" : "Once procured 50 In-N-Out Double Doubles, a bag of Blonde Oreos and a box of Sharpies for Snoop Dogg."
+      },
+      {
+        "id" : 3,
+        "body" : "5,432,223 tears of joy shed while watching hockey"
+      }
+    ]
+  },
+  {
+    "about" : "Life enthusiast. Always up to something. Always up for anything.",
+    "id" : 14,
+    "title" : "Strategy Director",
+    "name" : "Christina Lau Billings",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Curator of AdventureswithTheo.com"
+      },
+      {
+        "id" : 2,
+        "body" : "I went to school in Boston. (It&#38;s Harvard.)"
+      },
+      {
+        "id" : 3,
+        "body" : "1 in a million rare disease survivor"
+      }
+    ]
+  },
+  {
+    "about" : "Strategist, Music Junkie, Baseball Fanatic, Runner, Photography Hound, Dive Bar Enthusiast always hunting for the next.",
+    "id" : 15,
+    "title" : "Managing Director",
+    "name" : "Todd Ruff",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "7,975 days parenting"
+      },
+      {
+        "id" : 2,
+        "body" : "227 bands seen at ACL"
+      },
+      {
+        "id" : 3,
+        "body" : "9.01 Running Pace 1 Double Eagle"
+      }
+    ]
+  },
+  {
+    "about" : "Hirsute, Pro-Han Solo, &quot; How you do one thing is how you do every thing,&quot; often compared to a walk in a meadow, still mad at that time Lando took off in the Millennium Falcon.",
+    "id" : 16,
+    "title" : "Creative Director",
+    "name" : "Joe Bartenhagen",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Talking about doing things"
+      },
+      {
+        "id" : 2,
+        "body" : "Buying things that will help me do things"
+      },
+      {
+        "id" : 3,
+        "body" : "Actually doing things"
+      }
+    ]
+  },
+  {
+    "about" : "Gryffindor, mountain biker, bleeder of a deep Cougar blue, insatiable reader, spreadsheet groupie. Always Yoshi in Mario Kart.",
+    "id" : 17,
+    "title" : "Program Director",
+    "name" : "Deedee Olsen",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "3 # of times a day I practice being ambidextrous"
+      },
+      {
+        "id" : 2,
+        "body" : "Preferred gaming console – N64"
+      },
+      {
+        "id" : 3,
+        "body" : "Will work for chocolate"
+      }
+    ]
+  },
+  {
+    "about" : "Indie film enthusiast, typography nerd, breakfast burrito connoisseur",
+    "id" : 18,
+    "title" : "UX Designer",
+    "name" : "Fiona Foster",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Lover of last minute road trips"
+      },
+      {
+        "id" : 2,
+        "body" : "Yoga enthusiast and avid hiker"
+      },
+      {
+        "id" : 3,
+        "body" : "Arizona native and self-proclaimed tortilla expert"
+      }
+    ]
+  },
+  {
+    "about" : "Alpine Argonaut, Imagineer, Adventure-Based Psychotherapist, Coureur des Bois, The North Face Athlete. Sometimes I take pictures. https:\/\/instagram.com\/joeschaeppi\/",
+    "id" : 19,
+    "title" : "UX Lead",
+    "name" : "Joe Schaeppi",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Maker of mead"
+      },
+      {
+        "id" : 2,
+        "body" : "Sailor of ships"
+      },
+      {
+        "id" : 3,
+        "body" : "Great (x 38) grandson of Rollo (Ganger-Hrólf)"
+      }
+    ]
+  },
+  {
+    "about" : "KTM riding, wing tip wearing, pen and sketchbook fantasizing, maker of things. Describes food like art.",
+    "id" : 20,
+    "title" : "UI Lead",
+    "name" : "Chas Barton",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "142 gigs played with Goldtop Les Paul"
+      },
+      {
+        "id" : 2,
+        "body" : "Outranked Justin Bieber on &quot;Selfie&quot; image search results"
+      },
+      {
+        "id" : 3,
+        "body" : "92 legitimate unKickstarted ideas"
+      }
+    ]
+  },
+  {
+    "about" : "Defender of pit bulls, boeuf bourguignon chef extraordinaire, skilled pfifferlingen hunter, Brown Coat.",
+    "id" : 21,
+    "title" : "Production Designer",
+    "name" : "Elisha Frey",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "624 individual Star Trek episodes watched"
+      },
+      {
+        "id" : 2,
+        "body" : "923 miles traveled by French rail"
+      },
+      {
+        "id" : 3,
+        "body" : "923 miles traveled by French rail"
+      }
+    ]
+  },
+  {
+    "about" : "Lover of the good fight, slayer of dragons, wear-it-on-your-sleeve romantic, devils advocate, terrible poker player",
+    "id" : 22,
+    "title" : "Managing Director",
+    "name" : "Steve Rutherford",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Photographer"
+      },
+      {
+        "id" : 2,
+        "body" : "Urban cowboy"
+      },
+      {
+        "id" : 3,
+        "body" : "Foodie wino"
+      }
+    ]
+  },
+  {
+    "about" : "Marketing guy, film buff, tennis junkie, daydreamer, hero-worshipper, awe-inspired fan of art & nature.",
+    "id" : 23,
+    "title" : "CEO",
+    "name" : "Jay Williams",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Juggler"
+      },
+      {
+        "id" : 2,
+        "body" : "Incorrigible optimist"
+      },
+      {
+        "id" : 3,
+        "body" : "Wannabe world traveler"
+      }
+    ]
+  },
+  {
+    "about" : "Animal lover, excell-ent at Excel, Contravent snack mule, number cruncher",
+    "id" : 24,
+    "title" : "Controller",
+    "name" : "Sabreena Regis",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Owner of the benignly giant office dog"
+      },
+      {
+        "id" : 2,
+        "body" : "Fascinated by Alaska (not the Palins, but Alaska)"
+      },
+      {
+        "id" : 3,
+        "body" : "Dedicated wife and mom"
+      }
+    ]
+  },
+  {
+    "about" : "I believe in returning the grocery cart after loading the car and in supporting kid-run lemonade stands. ENFP",
+    "id" : 25,
+    "title" : "VP, Client Services",
+    "name" : "Mark Packham",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Hablo Español"
+      },
+      {
+        "id" : 2,
+        "body" : "Brother to 5 sisters; Father to 3 sons"
+      },
+      {
+        "id" : 3,
+        "body" : "12 handicap"
+      }
+    ]
+  },
+  {
+    "about" : "Techie, wise-ass, golfer, traveler",
+    "id" : 26,
+    "title" : "VP of Technology",
+    "name" : "Tom Compagno",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Never passes up an opportunity to learn a new technology"
+      },
+      {
+        "id" : 2,
+        "body" : "Enjoys Scotch and is a little neurotic about coffee"
+      },
+      {
+        "id" : 3,
+        "body" : "Spent one and half years exploring 23 states and 2 countries with his wife and dog"
+      }
+    ]
+  },
+  {
+    "about" : "Runner, outdoor enthusiast, best bottle of wine under $10 connoisseur, constantly jumping over tree roots and uneven sidewalks, pop culture savant",
+    "id" : 27,
+    "title" : "Account Director",
+    "name" : "Connie Crowell",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Over 1800 miles on my running shoes"
+      },
+      {
+        "id" : 2,
+        "body" : "On a mission to master the art of car camping"
+      },
+      {
+        "id" : 3,
+        "body" : "I am actually cooler than my teenage kids think I am"
+      }
+    ]
+  },
+  {
+    "about" : "Utah Utes fanatic, self-proclaimed fitness guru, Converse connoisseur, sun chaser",
+    "id" : 28,
+    "title" : "Designer",
+    "name" : "Craig Mitchell",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "12 bad puns made daily"
+      },
+      {
+        "id" : 2,
+        "body" : "365 days of the year should be camping"
+      },
+      {
+        "id" : 3,
+        "body" : "Font rapper name – Helvetikilla"
+      }
+    ]
+  },
+  {
+    "about" : "Hockey player, Geek, Race car driver, I look like too many celebrities",
+    "id" : 29,
+    "title" : "Technical Project Manager",
+    "name" : "John Miranda",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "My sons, family, and friends are everything!"
+      },
+      {
+        "id" : 2,
+        "body" : "Love being a Techie!"
+      },
+      {
+        "id" : 3,
+        "body" : "Can’t ever have too much fun! Life is short, Joke daily!"
+      }
+    ]
+  },
+  {
+    "about" : "Gotta keep travelin, golfer, snow boarder, Audi enthusiast, consummate builder",
+    "id" : 30,
+    "title" : "Managing Partner",
+    "name" : "Ash Evans",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "My Family: My son Quinn the leukemia survivor, my daughter Claire the bone marrow donor and Laura, my wife, for keeping it all together. We are the lucky ones."
+      },
+      {
+        "id" : 2,
+        "body" : "Perspective: Dragged off the Tran Siberian Express from China in the middle of the night in Mongolia –36 took 4 bottles of Thai Whiskey to get my travel visa to pass through to Russia."
+      },
+      {
+        "id" : 3,
+        "body" : "Work passion: building coalitions with great people"
+      }
+    ]
+  },
+  {
+    "about" : "Budget traveler, outdoor enthusiast, ponderer of young daughter’s thought process, below average gardener, above average coffee consumer, aspiring carpenter",
+    "id" : 31,
+    "title" : "Account Director",
+    "name" : "Jeff Spencer",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Longest bus ride - 36 hours"
+      },
+      {
+        "id" : 2,
+        "body" : "Average number of status sheets kept - 4"
+      },
+      {
+        "id" : 3,
+        "body" : "My wife and I brought together by a stray dog"
+      }
+    ]
+  },
+  {
+    "about" : "Builder, driven, passionate, tennis junkie, musical wannabe",
+    "id" : 32,
+    "title" : "Chief Operating Officer",
+    "name" : "Scott Kempema",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Appreciate the twists and turns of a new adventure"
+      },
+      {
+        "id" : 2,
+        "body" : "Consumed by hundreds of tennis matches each year"
+      },
+      {
+        "id" : 3,
+        "body" : "It only matters if my family is happy"
+      }
+    ]
+  },
+  {
+    "about" : "&quot; Trying to define yourself is like trying to bite your own teeth.&quot;  Alan Watts",
+    "id" : 35,
+    "title" : "Program Director",
+    "name" : "Bethlyn Wallace",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Lives for art, music, stories, family, mountains, good food, and hops"
+      },
+      {
+        "id" : 2,
+        "body" : "Believes if you have a garden, a library, and Kit-Kats, you have everything you need"
+      },
+      {
+        "id" : 3,
+        "body" : "Tries to unlearn things on a daily basis"
+      }
+    ]
+  },
+  {
+    "about" : "Cat enthusiast, bookworm, amateur cake artisan, reality show anthropologist, and crossword devotee",
+    "id" : 36,
+    "title" : "Account Manager",
+    "name" : "Blythe Van Gordon",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Avid baker"
+      },
+      {
+        "id" : 2,
+        "body" : "Endless butter\/sugar\/flour provisioning trips"
+      },
+      {
+        "id" : 3,
+        "body" : "Unapologetic Costco fanatic"
+      }
+    ]
+  },
+  {
+    "about" : "Design lover, dog walker, nascent globe trotter and kitchen gadget collector",
+    "id" : 37,
+    "title" : "VP, Creative Services",
+    "name" : "Robyn Erkelens",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "18,250 cups of coffee consumed"
+      },
+      {
+        "id" : 2,
+        "body" : "4,680 miles run"
+      },
+      {
+        "id" : 3,
+        "body" : "14 countries visited"
+      }
+    ]
+  },
+  {
+    "about" : "Doesn't write code. Stares at the computer screen until he gets the program he wants.",
+    "id" : 38,
+    "title" : "Senior Front-end Developer",
+    "name" : "Jake Astle",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "It&#39;s not a bug. It&#39;s a feature."
+      },
+      {
+        "id" : 2,
+        "body" : "Knock, knock. Who&#39;s there? very long pause…. Java."
+      },
+      {
+        "id" : 3,
+        "body" : "Still trying to win an Oscar every time steps on a soccer field."
+      }
+    ]
+  },
+  {
+    "about" : "Can't hear you over the majesty of his beard.",
+    "id" : 39,
+    "title" : "VP, Product Design",
+    "name" : "Ryan Potter",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "So redneck, he thinks &quot;kern&quot; is on the cob."
+      },
+      {
+        "id" : 2,
+        "body" : "Can count to potato"
+      },
+      {
+        "id" : 3,
+        "body" : "Manscaper"
+      }
+    ]
+  },
+  {
+    "about" : "People laugh at my jokes because I hired them",
+    "id" : 40,
+    "title" : "President, Chief Creative Officer",
+    "name" : "Brian Deaver",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "My mama says my freckles are angel kisses"
+      },
+      {
+        "id" : 2,
+        "body" : "Ginger"
+      },
+      {
+        "id" : 3,
+        "body" : "Wears sunblock even at night"
+      }
+    ]
+  },
+  {
+    "about" : "Wandering minstrel, foodie, sea monkey, eco-builder, trivia champion. Disruptive thinker. Polymath.",
+    "id" : 41,
+    "title" : "Ecosystem Strategist",
+    "name" : "Keith Fusaro",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Let the technology do the work"
+      },
+      {
+        "id" : 2,
+        "body" : "My moon rises somewhere between the constellations of Oysters and Bacon"
+      },
+      {
+        "id" : 3,
+        "body" : "33 states, 20 countries, 18 residences"
+      }
+    ]
+  },
+  {
+    "about" : "",
+    "id" : 42,
+    "title" : "Office Manager",
+    "name" : "Emily Clare",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : ""
+      },
+      {
+        "id" : 2,
+        "body" : ""
+      },
+      {
+        "id" : 3,
+        "body" : ""
+      }
+    ]
+  },
+  {
+    "about" : "",
+    "id" : 43,
+    "title" : "CIO",
+    "name" : "Julie Simmons",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : ""
+      },
+      {
+        "id" : 2,
+        "body" : ""
+      },
+      {
+        "id" : 3,
+        "body" : ""
+      }
+    ]
+  },
+  {
+    "about" : "Island grown, city living, wannabe hipster. Spends free-time worshiping Beyonce, CrossFit-ing and indulging in all the amazing eats and drinks Portland has to offer.",
+    "id" : 44,
+    "title" : "Social Media Specialist",
+    "name" : "Nicole Ada",
+    "team" : "ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "WWII-Pacific Theater History Buff"
+      },
+      {
+        "id" : 2,
+        "body" : "CNMI National Swim Team Medalist"
+      },
+      {
+        "id" : 3,
+        "body" : "Faithful “The Voice” Viewer, Voter and Concert Goer"
+      }
+    ]
+  },
+  {
+    "about" : "Introspective introvert, quizzically quiet, objective observer of industrial design.",
+    "id" : 45,
+    "title" : "Assc. Creative Director",
+    "name" : "Dan Orgill",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Collector of vintage toasters"
+      },
+      {
+        "id" : 2,
+        "body" : "Named after Elvis"
+      },
+      {
+        "id" : 3,
+        "body" : "My cat can eat a whole watermelon"
+      }
+    ]
+  },
+  {
+    "about" : "Family man, Sarcasm’s BFF, Amazing Air Drummer, Still partying like it’s 1999",
+    "id" : 46,
+    "title" : "Strategy Director",
+    "name" : "Paul Yoachum",
+    "team" : "engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Ran the mile in 4:11 minute"
+      },
+      {
+        "id" : 2,
+        "body" : "Memorized every Seinfeld episode"
+      },
+      {
+        "id" : 3,
+        "body" : "In Vegas when Tupac was shot"
+      }
+    ]
+  },
+  {
+    "about" : "",
+    "id" : 47,
+    "title" : "Developer",
+    "name" : "Scott Madsen",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : ""
+      },
+      {
+        "id" : 2,
+        "body" : ""
+      },
+      {
+        "id" : 3,
+        "body" : ""
+      }
+    ]
+  },
+  {
+    "about" : "",
+    "id" : 48,
+    "title" : "Systems and Operations",
+    "name" : "Don Bailey",
+    "team" : "build",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : ""
+      },
+      {
+        "id" : 2,
+        "body" : ""
+      },
+      {
+        "id" : 3,
+        "body" : ""
+      }
+    ]
+  }
+]
