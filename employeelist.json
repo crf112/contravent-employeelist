@@ -63,27 +63,6 @@
     ]
   },
   {
-    "about" : "Avid traveler, single mother of 4 (including identical twin boys), love to read, learn, organize & help others, part owner in a ranch",
-    "id" : 4,
-    "title" : "Account Supervisor",
-    "name" : "Christine Southwick",
-    "team" : "ops",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Beekeeper to 60,000 plus bees"
-      },
-      {
-        "id" : 2,
-        "body" : "Lived in 7 states, vacationed in 12 countries and 29 states, more to come!"
-      },
-      {
-        "id" : 3,
-        "body" : "Constantly approached by friends & strangers to listen to their deepest problems & secrets"
-      }
-    ]
-  },
-  {
     "about" : "Designer, CrossFitter, sane cat lady, mountain craver, upbeat feminist",
     "id" : 5,
     "title" : "Designer",
@@ -353,48 +332,6 @@
       {
         "id" : 3,
         "body" : "Arizona native and self-proclaimed tortilla expert"
-      }
-    ]
-  },
-  {
-    "about" : "Alpine Argonaut, Imagineer, Adventure-Based Psychotherapist, Coureur des Bois, The North Face Athlete. Sometimes I take pictures. https:\/\/instagram.com\/joeschaeppi\/",
-    "id" : 19,
-    "title" : "UX Lead",
-    "name" : "Joe Schaeppi",
-    "team" : "build",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Maker of mead"
-      },
-      {
-        "id" : 2,
-        "body" : "Sailor of ships"
-      },
-      {
-        "id" : 3,
-        "body" : "Great (x 38) grandson of Rollo (Ganger-Hrólf)"
-      }
-    ]
-  },
-  {
-    "about" : "KTM riding, wing tip wearing, pen and sketchbook fantasizing, maker of things. Describes food like art.",
-    "id" : 20,
-    "title" : "UI Lead",
-    "name" : "Chas Barton",
-    "team" : "build",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "142 gigs played with Goldtop Les Paul"
-      },
-      {
-        "id" : 2,
-        "body" : "Outranked Justin Bieber on &quot;Selfie&quot; image search results"
-      },
-      {
-        "id" : 3,
-        "body" : "92 legitimate unKickstarted ideas"
       }
     ]
   },
@@ -794,6 +731,154 @@
       {
         "id" : 3,
         "body" : "33 states, 20 countries, 18 residences"
+      }
+    ]
+  },
+  {
+    "about" : "Introspective introvert, quizzically quiet, objective observer of industrial design.",
+    "id" : 42,
+    "title" : "Associate Creative Director",
+    "name" : "Dan Orgill",
+    "team" : "Engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Collector of vintage toasters"
+      },
+      {
+        "id" : 2,
+        "body" : "Named after Elvis"
+      },
+      {
+        "id" : 3,
+        "body" : "My cat can eat a whole watermelon"
+      }
+    ]
+  },
+  {
+    "about" : "Family man, Sarcasm’s BFF, Amazing Air Drummer, Still partying like it’s 1999",
+    "id" : 43,
+    "title" : "Strategy Director",
+    "name" : "Paul Yoachum",
+    "team" : "Engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Ran the mile in 4:11 minute"
+      },
+      {
+        "id" : 2,
+        "body" : "Memorized every Seinfeld episode"
+      },
+      {
+        "id" : 3,
+        "body" : "Was in Vegas when Tupac was shot"
+      }
+    ]
+  },
+  {
+    "about" : "Island grown, city living, wannabe hipster. Spends free-time worshiping Beyonce, CrossFit-ing and indulging in all the amazing eats and drinks Portland has to offer.  ",
+    "id" : 44,
+    "title" : "Social Media Manager",
+    "name" : "Nicole Ada",
+    "team" : "Engage",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "WWII-Pacific Theater History Buff "
+      },
+      {
+        "id" : 2,
+        "body" : "CNMI National Swim Team Medalist "
+      },
+      {
+        "id" : 3,
+        "body" : "Faithful &quot;The Voice&quot; Viewer, Voter and Concert Goer"
+      }
+    ]
+  },
+  {
+    "about" : "Travel enthusiast, love technology, building and scaling organizations, career mentor and womens advocate",
+    "id" : 45,
+    "title" : "CIO",
+    "name" : "Julie Simmons",
+    "team" : "Ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Recovering dietcoke-aholic"
+      },
+      {
+        "id" : 2,
+        "body" : "Once fell off cheerleading pyramid and ended up in intensive care"
+      },
+      {
+        "id" : 3,
+        "body" : "Never met a gadget I didn’t like"
+      }
+    ]
+  },
+  {
+    "about" : "Marin County California native.  Foodie with an obsession for candy.  Company &quot;catch all&quot; with a sparkling personality and a gift for wearing everything that I eat. ",
+    "id" : 46,
+    "title" : "Office Manager ",
+    "name" : "Emily Clare",
+    "team" : "Ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : "Runner- trail blazer"
+      },
+      {
+        "id" : 2,
+        "body" : "Biography enthusiast- I don’t do fairy tales"
+      },
+      {
+        "id" : 3,
+        "body" : "Slight Audrey Hepburn obsession"
+      }
+    ]
+  },
+  {
+    "about" : "",
+    "id" : 47,
+    "title" : "Developer",
+    "name" : "Scott Madsen",
+    "team" : "Build",
+    "bullets" : [
+      {
+        "id": 1,
+        "body": "Favorite wireless communication is radi"
+      }
+      },
+      {
+        "id" : 2,
+        "body" : "Rides a snowmobile to work"
+      },
+      {
+        "id" : 3,
+        "body" : "My favorite pi is raspberry"
+      }
+    ]
+  },
+  {
+    "about" : "",
+    "id" : 48,
+    "title" : "Operations",
+    "name" : "Don Bailey",
+    "team" : "Ops",
+    "bullets" : [
+      {
+        "id" : 1,
+        "body" : ""
+      },
+      {
+        "id" : 2,
+        "body" : ""
+      },
+      {
+        "id" : 3,
+        "body" : ""
       }
     ]
   }

@@ -1,0 +1,13 @@
+[
+  {'id': 1,'company': 'Apartments.com','logo': 'website/clients/apartmentscom.svg'},
+  {'id': 2,'company': 'Atlassian','logo': 'website/clients/atlassian.svg'},
+  //{'id': 3,'company': 'BMC','logo': 'website/clients/bmc.svg'},
+  {'id': 4,'company': 'CenturyLink','logo': 'website/clients/centurylink.svg'},
+  {'id': 5,'company': 'CoStar','logo': 'website/clients/costar.svg'},
+  {'id': 6,'company': 'MuleSoft','logo': 'website/clients/mulesoft.svg'},
+  // {'id': 7,'company': 'NetFortris','logo': 'website/clients/netfortris.svg'},
+  {'id': 8,'company': 'Summit','logo': 'website/clients/summit.svg'},
+  {'id': 9,'company': 'Weave','logo': 'website/clients/weave.svg'},
+  {'id': 10,'company': 'Fidelity','logo': 'website/clients/fidelity.svg'},
+  {'id': 11,'company': 'Black Feather','logo': 'website/clients/blackfeather.svg'}
+]
