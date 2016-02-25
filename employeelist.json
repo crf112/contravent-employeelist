@@ -861,7 +861,7 @@
     ]
   },
   {
-    "about" : "",
+    "about" : "Coined the phrase, &quot;Put that down, Kempema, it’s not a toy.&quot; Closet biker (he prefers leather to spandex, ladies). Bleeding edge lover (he doesn’t think it means what you think it means) with 20 grandkids.",
     "id" : 48,
     "title" : "Operations",
     "name" : "Don Bailey",
@@ -869,15 +869,15 @@
     "bullets" : [
       {
         "id" : 1,
-        "body" : ""
+        "body" : "Big Game Hunter (high score)"
       },
       {
         "id" : 2,
-        "body" : ""
+        "body" : "Puts the Creatine in Creative"
       },
       {
         "id" : 3,
-        "body" : ""
+        "body" : "His Only Flaw Is Enthusiasm"
       }
     ]
   }
