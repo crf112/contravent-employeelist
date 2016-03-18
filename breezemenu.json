@@ -1,10 +1,10 @@
-
-  "Work" : [
+{
+  "Work": [
     {
       "name": "Projects",
       "icon": "b",
       "link": "https://contravent.crm.dynamics.com",
-      "validbrowser":  true
+      "validbrowser": true
     },
     {
       "name": "Files",
@@ -60,13 +60,13 @@
     },
     {
       "name": "Reports",
-      "subtitle":: "(coming soon)",
+      "subtitle":
+      :
+      "(coming soon)",
       "link": "",
       "icon": "q",
       "validbrowser": true
     }
-
-
   ],
   "Communication": [
     {
@@ -125,7 +125,6 @@
       "link": "https://contravent.sharepoint.com/HR Documents/Job Descriptions",
       "validbrowser": true
     },
-
     {
       "name": "Forms",
       "icon": "c",
@@ -164,3 +163,4 @@
       "validbrowser": true
     }
   ]
+}
