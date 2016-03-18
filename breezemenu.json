@@ -1,0 +1,166 @@
+
+  "Work" : [
+    {
+      "name": "Projects",
+      "icon": "b",
+      "link": "https://contravent.crm.dynamics.com",
+      "validbrowser":  true
+    },
+    {
+      "name": "Files",
+      "icon": "c",
+      "link": "https://contravent.sharepoint.com/_layouts/15/start.aspx#/account/Forms/AllItems.aspx",
+      "validbrowser": true
+    },
+    {
+      "name": "Time",
+      "icon": "d",
+      "link": "https://contravent.crm.dynamics.com/WebResources/psa_/Timesheet.html",
+      "validbrowser": true,
+      "newwindow": false
+    },
+    {
+      "name": "Timer",
+      "icon": "D",
+      "link": "https://contravent.crm.dynamics.com/WebResources/psa_/Timer.html",
+      "validbrowser": true,
+      "newwindow": true,
+      "width": 420,
+      "height": 520
+    },
+    {
+      "name": "Word",
+      "icon": "G",
+      "link": "https://office.live.com/start/Word.aspx",
+      "validbrowser": true
+    },
+    {
+      "name": "Excel",
+      "icon": "E",
+      "link": "https://office.live.com/start/Excel.aspx",
+      "validbrowser": true
+    },
+    {
+      "name": "OneNote",
+      "icon": "F",
+      "link": "https://www.onenote.com/notebooks",
+      "validbrowser": true
+    },
+    {
+      "name": "PowerPoint",
+      "icon": "J",
+      "link": "https://office.live.com/start/PowerPoint.aspx",
+      "validbrowser": true
+    },
+    {
+      "name": "Calendar",
+      "icon": "r",
+      "link": "https://outlook.office365.com/owa/?realm=contravent.com&exsvurl=1&ll-cc=1033&modurl=1",
+      "validbrowser": true
+    },
+    {
+      "name": "Reports",
+      "subtitle":: "(coming soon)",
+      "link": "",
+      "icon": "q",
+      "validbrowser": true
+    }
+
+
+  ],
+  "Communication": [
+    {
+      "name": "Messaging",
+      "icon": "l",
+      "link": "https://contravent.slack.com/",
+      "validbrowser": true
+    },
+    {
+      "name": "Email",
+      "icon": "b",
+      "link": "https://outlook.office365.com/owa/?realm=contravent.com&exsvurl=1&ll-cc=1033&modurl=0",
+      "validbrowser": true
+    },
+    {
+      "name": "Conferencing",
+      "icon": "a",
+      "link": " https://global.gotomeeting.com",
+      "validbrowser": true
+    }
+  ],
+  "Company": [
+    {
+      "name": "Benefits",
+      "icon": "t",
+      "link": "https://contravent.sharepoint.com/HR Documents/Benefits",
+      "validbrowser": true
+    },
+    {
+      "name": "Holidays",
+      "icon": "u",
+      "link": "https://contravent.sharepoint.com/_layouts/15/WopiFrame.aspx?sourcedoc={05FC01A9-7DEE-43C7-8866-0D91B172DAA6}&file=2016%20Holiday%20Schedule.doc.docx&action=default",
+      "validbrowser": true
+    },
+    {
+      "name": "Time-off",
+      "icon": "v",
+      "link": "https://contravent.sharepoint.com/_layouts/15/WopiFrame.aspx?sourcedoc={A3BBB790-DAEE-4C77-9013-2011EBC04544}&file=PTO%20Request.doc&action=default",
+      "validbrowser": true
+    },
+    {
+      "name": "Payroll",
+      "icon": "w",
+      "link": "https://runess.adp.com/@836d254c-789b-41b8-8052-d48a639e95d8/ess/registered/registeredlogin.aspx?Mode=BROWSER&Stc=False",
+      "validbrowser": true
+    },
+    {
+      "name": "Employee Directory",
+      "icon": "x",
+      "link": "https://contravent.sharepoint.com/search/Pages/EmployeeDirectory.aspx",
+      "validbrowser": true
+    },
+    {
+      "name": "Job Descriptions",
+      "icon": "y",
+      "link": "https://contravent.sharepoint.com/HR Documents/Job Descriptions",
+      "validbrowser": true
+    },
+
+    {
+      "name": "Forms",
+      "icon": "c",
+      "link": "https://contravent.sharepoint.com/_layouts/15/start.aspx#/HR%20Documents/Forms/HR%20Site%20View.aspx?RootFolder=%2FHR%20Documents%2FForms%20Library&FolderCTID=0x0120007C4918742C4FDE4AA3DA331DB6F43C79&View=%7B6A116F91%2D3902%2D4334%2DB5B7%2DA7145EECB1D6%7D",
+      "validbrowser": true
+    },
+    {
+      "name": "Processes",
+      "icon": "j",
+      "link": "https://contravent.sharepoint.com/HR Documents/Process",
+      "validbrowser": true
+    },
+    {
+      "name": "Navigator",
+      "icon": "H",
+      "link": "http://www.employeenavigator.com/",
+      "validbrowser": true
+    },
+    {
+      "name": "Training",
+      "icon": "k",
+      "link": "https://contravent.sharepoint.com/_layouts/15/start.aspx#/HR%20Documents/Forms/HR%20Site%20View.aspx?RootFolder=%2FHR%20Documents%2FTraining&Folder",
+      "validbrowser": true
+    },
+    {
+      "name": "Job Openings",
+      "icon": "z",
+      "link": "",
+      "subtitle": "(coming soon)",
+      "validbrowser": true
+    },
+    {
+      "name": "Expense Report",
+      "link": "https://contravent.sharepoint.com/_layouts/15/start.aspx#/HR%20Documents/Forms/HR%20Site%20View.aspx?RootFolder=%2FHR%20Documents%2FExpense%20Report%20Templates&FolderCTID=0x0120007C4918742C4FDE4AA3DA331DB6F43C79&View={6A116F91-3902-4334-B5B7-A7145EECB1D6}",
+      "icon": "K",
+      "validbrowser": true
+    }
+  ]
