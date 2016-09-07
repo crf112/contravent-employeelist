@@ -105,27 +105,6 @@
     ]
   },
   {
-    "about" : "Geek, bon vivant, gamer, sous chef, gin devotee",
-    "id" : 7,
-    "title" : "Front-end Developer",
-    "name" : "Chris Connelley",
-    "team" : "build",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Aesthete of music, art, literature, nature, and people"
-      },
-      {
-        "id" : 2,
-        "body" : "Over 10,000 hours of roleplaying as sorcerers, spies, supers, and supernatural"
-      },
-      {
-        "id" : 3,
-        "body" : "Owner of over a dozen bow ties and two score cufflinks"
-      }
-    ]
-  },
-  {
     "about" : "Inventor, ukulele lover, the &quot;fun&quot; grandpa. A pillow is my peace of mind.",
     "id" : 8,
     "title" : "VP of Strategy",
@@ -227,27 +206,6 @@
       {
         "id" : 3,
         "body" : "5,432,223 tears of joy shed while watching hockey"
-      }
-    ]
-  },
-  {
-    "about" : "Life enthusiast. Always up to something. Always up for anything.",
-    "id" : 14,
-    "title" : "Strategy Director",
-    "name" : "Christina Lau Billings",
-    "team" : "engage",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Curator of AdventureswithTheo.com"
-      },
-      {
-        "id" : 2,
-        "body" : "I went to school in Boston. (It&#38;s Harvard.)"
-      },
-      {
-        "id" : 3,
-        "body" : "1 in a million rare disease survivor"
       }
     ]
   },
@@ -416,27 +374,6 @@
       {
         "id" : 3,
         "body" : "Dedicated wife and mom"
-      }
-    ]
-  },
-  {
-    "about" : "I believe in returning the grocery cart after loading the car and in supporting kid-run lemonade stands. ENFP",
-    "id" : 25,
-    "title" : "VP, Client Services",
-    "name" : "Mark Packham",
-    "team" : "ops",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Hablo Español"
-      },
-      {
-        "id" : 2,
-        "body" : "Brother to 5 sisters; Father to 3 sons"
-      },
-      {
-        "id" : 3,
-        "body" : "12 handicap"
       }
     ]
   },
@@ -735,69 +672,6 @@
     ]
   },
   {
-    "about" : "Introspective introvert, quizzically quiet, objective observer of industrial design.",
-    "id" : 42,
-    "title" : "Associate Creative Director",
-    "name" : "Dan Orgill",
-    "team" : "Engage",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Collector of vintage toasters"
-      },
-      {
-        "id" : 2,
-        "body" : "Named after Elvis"
-      },
-      {
-        "id" : 3,
-        "body" : "My cat can eat a whole watermelon"
-      }
-    ]
-  },
-  {
-    "about" : "Family man, Sarcasm’s BFF, Amazing Air Drummer, Still partying like it’s 1999",
-    "id" : 43,
-    "title" : "Strategy Director",
-    "name" : "Paul Yoachum",
-    "team" : "Engage",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Ran the mile in 4:11 minute"
-      },
-      {
-        "id" : 2,
-        "body" : "Memorized every Seinfeld episode"
-      },
-      {
-        "id" : 3,
-        "body" : "Was in Vegas when Tupac was shot"
-      }
-    ]
-  },
-  {
-    "about" : "Island grown, city living, wannabe hipster. Spends free-time worshiping Beyonce, CrossFit-ing and indulging in all the amazing eats and drinks Portland has to offer.  ",
-    "id" : 44,
-    "title" : "Social Media Manager",
-    "name" : "Nicole Ada",
-    "team" : "Engage",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "WWII-Pacific Theater History Buff "
-      },
-      {
-        "id" : 2,
-        "body" : "CNMI National Swim Team Medalist "
-      },
-      {
-        "id" : 3,
-        "body" : "Faithful &quot;The Voice&quot; Viewer, Voter and Concert Goer"
-      }
-    ]
-  },
-  {
     "about" : "Master orchestrator who loves to collaborate with people and use technology to drive amazing results, travel enthusiast, career mentor and womens advocate",
     "id" : 45,
     "title" : "CIO",
@@ -857,27 +731,6 @@
       {
         "id" : 3,
         "body" : "My favorite pi is raspberry"
-      }
-    ]
-  },
-  {
-    "about" : "Coined the phrase, &quot;Put that down, Kempema, it’s not a toy.&quot; Closet biker (he prefers leather to spandex, ladies). Bleeding edge lover (he doesn’t think it means what you think it means) with 20 grandkids.",
-    "id" : 48,
-    "title" : "Operations",
-    "name" : "Don Bailey",
-    "team" : "Ops",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Big Game Hunter (high score)"
-      },
-      {
-        "id" : 2,
-        "body" : "Puts the Creatine in Creative"
-      },
-      {
-        "id" : 3,
-        "body" : "His Only Flaw Is Enthusiasm"
       }
     ]
   }
