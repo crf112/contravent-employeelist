@@ -525,27 +525,6 @@
     ]
   },
   {
-    "about" : "&quot; Trying to define yourself is like trying to bite your own teeth.&quot;  Alan Watts",
-    "id" : 35,
-    "title" : "Program Director",
-    "name" : "Bethlyn Wallace",
-    "team" : "ops",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Lives for art, music, stories, family, mountains, good food, and hops"
-      },
-      {
-        "id" : 2,
-        "body" : "Believes if you have a garden, a library, and Kit-Kats, you have everything you need"
-      },
-      {
-        "id" : 3,
-        "body" : "Tries to unlearn things on a daily basis"
-      }
-    ]
-  },
-  {
     "about" : "Cat enthusiast, bookworm, amateur cake artisan, reality show anthropologist, and crossword devotee",
     "id" : 36,
     "title" : "Account Manager",
