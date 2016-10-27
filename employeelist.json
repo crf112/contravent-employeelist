@@ -630,27 +630,6 @@
     ]
   },
   {
-    "about" : "Wandering minstrel, foodie, sea monkey, eco-builder, trivia champion. Disruptive thinker. Polymath.",
-    "id" : 41,
-    "title" : "Ecosystem Strategist",
-    "name" : "Keith Fusaro",
-    "team" : "ops",
-    "bullets" : [
-      {
-        "id" : 1,
-        "body" : "Let the technology do the work"
-      },
-      {
-        "id" : 2,
-        "body" : "My moon rises somewhere between the constellations of Oysters and Bacon"
-      },
-      {
-        "id" : 3,
-        "body" : "33 states, 20 countries, 18 residences"
-      }
-    ]
-  },
-  {
     "about" : "Master orchestrator who loves to collaborate with people and use technology to drive amazing results, travel enthusiast, career mentor and womens advocate",
     "id" : 45,
     "title" : "CIO",
