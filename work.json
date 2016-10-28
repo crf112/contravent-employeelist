@@ -1,73 +1,46 @@
 [
   {
-    "code": "atlassian",
-    "company": "Atlassian",
+    "code": "blackfeather",
+    "company": "BlackFeather",
     "card": {
-      "image": "",
-      "logo": "website/clients/atlassian.svg",
+      "background": "work/card/blackfeather.png",
+      "logo": "website/clients/blackfeather.svg",
       "description": ""
     }
   },
   {
-    "code": "atlassian",
-    "company": "Atlassian",
+    "code": "cloudflare",
+    "company": "CloudFlare",
     "card": {
-      "image": "",
-      "logo": "website/clients/atlassian.svg",
+      "background": "work/card/cloudflare.png",
+      "logo": "website/clients/cloudflare.svg",
       "description": ""
     }
   },
   {
-    "code": "atlassian",
-    "company": "Atlassian",
+    "code": "fireeye",
+    "company": "FireEye",
     "card": {
-      "image": "",
-      "logo": "website/clients/atlassian.svg",
+      "background": "work/card/fireeye.png",
+      "logo": "website/clients/fireeye.svg",
       "description": ""
     }
   },
   {
-    "code": "atlassian",
-    "company": "Atlassian",
+    "code": "teem",
+    "company": "teem",
     "card": {
-      "image": "",
-      "logo": "website/clients/atlassian.svg",
+      "background": "work/card/teem.png",
+      "logo": "website/clients/teem.svg",
       "description": ""
     }
   },
   {
-    "code": "atlassian",
-    "company": "Atlassian",
+    "code": "ctl",
+    "company": "CenturyLink",
     "card": {
-      "image": "",
-      "logo": "website/clients/atlassian.svg",
-      "description": ""
-    }
-  },
-  {
-    "code": "atlassian",
-    "company": "Atlassian",
-    "card": {
-      "image": "",
-      "logo": "website/clients/atlassian.svg",
-      "description": ""
-    }
-  },
-  {
-    "code": "atlassian",
-    "company": "Atlassian",
-    "card": {
-      "image": "",
-      "logo": "website/clients/atlassian.svg",
-      "description": ""
-    }
-  },
-  {
-    "code": "atlassian",
-    "company": "Atlassian",
-    "card": {
-      "image": "",
-      "logo": "website/clients/atlassian.svg",
+      "background": "work/card/centurylink.png",
+      "logo": "website/clients/centurylink.svg",
       "description": ""
     }
   }
