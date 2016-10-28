@@ -5,7 +5,7 @@
     "card": {
       "background": "work/card/blackfeather.png",
       "logo": "website/clients/blackfeather.svg",
-      "description": ""
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
     }
   },
   {
@@ -14,7 +14,7 @@
     "card": {
       "background": "work/card/cloudflare.png",
       "logo": "website/clients/cloudflare.svg",
-      "description": ""
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
     }
   },
   {
@@ -23,7 +23,7 @@
     "card": {
       "background": "work/card/fireeye.png",
       "logo": "website/clients/fireeye.svg",
-      "description": ""
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
     }
   },
   {
@@ -32,7 +32,7 @@
     "card": {
       "background": "work/card/teem.png",
       "logo": "website/clients/teem.svg",
-      "description": ""
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
     }
   },
   {
@@ -41,7 +41,7 @@
     "card": {
       "background": "work/card/centurylink.png",
       "logo": "website/clients/centurylink.svg",
-      "description": ""
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
     }
   }
 
