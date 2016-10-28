@@ -4,7 +4,7 @@
     "company": "BlackFeather",
     "card": {
       "background": "work/card/blackfeather.png",
-      "logo": "website/clients/blackfeather.svg",
+      "logo": "http://cdn.contravent.net/webstie/clients/blackfeather.svg",
       "description": ""
     }
   },
@@ -13,7 +13,7 @@
     "company": "CloudFlare",
     "card": {
       "background": "work/card/cloudflare.png",
-      "logo": "website/clients/cloudflare.svg",
+      "logo": "http://cdn.contravent.net/webstie/clients/cloudflare.svg",
       "description": ""
     }
   },
@@ -22,7 +22,7 @@
     "company": "FireEye",
     "card": {
       "background": "work/card/fireeye.png",
-      "logo": "website/clients/fireeye.svg",
+      "logo": "http://cdn.contravent.net/webstie/clients/fireeye.svg",
       "description": ""
     }
   },
@@ -31,16 +31,16 @@
     "company": "teem",
     "card": {
       "background": "work/card/teem.png",
-      "logo": "website/clients/teem.svg",
+      "logo": "http://cdn.contravent.net/webstie/clients/teem.svg",
       "description": ""
     }
   },
   {
-    "code": "ctl",
+    "code": "centurylink",
     "company": "CenturyLink",
     "card": {
       "background": "work/card/centurylink.png",
-      "logo": "website/clients/centurylink.svg",
+      "logo": "http://cdn.contravent.net/webstie/clients/centurylink.svg",
       "description": ""
     }
   }
