@@ -1,0 +1,44 @@
+[
+  {
+    "index": 0,
+    "section": "homeHeroBody",
+    "image": "website/rightNav/home.svg",
+    "title": "home"
+  },
+  {
+    "index": 1,
+    "section": "storySectionBody",
+    "image": "website/rightNav/story.svg",
+    "title": "story"
+  },
+  {
+    "index": 2,
+    "section": "employeeSectionBody",
+    "image": "website/rightNav/people.svg",
+    "title": "people"
+  },
+  {
+    "index": 3,
+    "section": "workSectionBody",
+    "image": "website/rightNav/work.svg",
+    "title": "work"
+  },
+  {
+    "index": 4,
+    "section": "careersSectionBody",
+    "image": "website/rightNav/careers.svg",
+    "title": "careers"
+  },
+  {
+    "index": 5,
+    "section": "contactusSectionBody",
+    "image": "website/rightNav/contactus.svg",
+    "title": "contact us"
+  },
+  {
+    "index": 6,
+    "section": "locationSectionBody",
+    "image": "website/rightNav/locations.svg",
+    "title": "Home"
+  }
+]
