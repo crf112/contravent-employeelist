@@ -53,6 +53,28 @@
       "template": "work/centurylink.html",
       "controller": "WorkCenturylinkCtrl"
     }
+  },
+  {
+    "code": "caputos",
+    "company": "Caputo's",
+    "card": {
+      "background": "work/card/caputos.png",
+      "logo": "website/clients/caputos.svg",
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>",
+      "template": "work/caputos.html",
+      "controller": "WorkCaputosCtrl"
+    }
+  },
+  {
+    "code": "kenandy",
+    "company": "Kenandy",
+    "card": {
+      "background": "work/card/kenandy.png",
+      "logo": "website/clients/kenandy.svg",
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>",
+      "template": "work/kenandy.html",
+      "controller": "WorkKenandyCtrl"
+    }
   }
 
 ]
