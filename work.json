@@ -10,28 +10,6 @@
       "controller": "WorkBlackfeatherCtrl"
     }
   },
-//  {
-//    "code": "cloudflare",
-//    "company": "CloudFlare",
-//    "card": {
-//      "background": "work/card/cloudflare.png",
-//      "logo": "website/clients/cloudflare.svg",
-//      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>",
-//      "template": "work/cloudflare.html",
-//      "controller": "WorkCloudflareCtrl"
-//    }
-//  },
-//  {
-//    "code": "fireeye",
-//    "company": "FireEye",
-//    "card": {
-//      "background": "work/card/fireeye.png",
-//      "logo": "website/clients/fireeye.svg",
-//      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>",
-//      "template": "work/fireeye.html",
-//      "controller": "WorkFireeyeCtrl"
-//    }
-//  },
   {
     "code": "teem",
     "company": "teem",
@@ -43,39 +21,4 @@
       "controller": "WorkTeemCtrl"
     }
   }
-//,
-//  {
-//    "code": "centurylink",
-//    "company": "CenturyLink",
-//    "card": {
-//      "background": "work/card/centurylink.png",
-//      "logo": "http://res.cloudinary.com/conravent/image/upload/v1478269238/work-card/CTL_500x500_oqrbgu.jpg",
-//      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>",
-//      "template": "work/centurylink.html",
-//      "controller": "WorkCenturylinkCtrl"
-//    }
-//  },
-//  {
-//    "code": "caputos",
-//    "company": "Caputo's",
-//    "card": {
-//      "background": "http://res.cloudinary.com/conravent/image/upload/v1478269238/work-card/Caputos_500x500_uenhap.jpg",
-//      "logo": "website/clients/caputos.svg",
-//      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>",
-//      "template": "work/caputos.html",
-//      "controller": "WorkCaputosCtrl"
-//    }
-//  },
-//  {
-//    "code": "kenandy",
-//    "company": "Kenandy",
-//    "card": {
-//      "background": "work/card/kenandy.png",
-//      "logo": "http://res.cloudinary.com/conravent/image/upload/v1478269238/work-card/Kenandy_500x500_lsbdos.jpg",
-//      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>",
-//      "template": "work/kenandy.html",
-//      "controller": "WorkKenandyCtrl"
-//    }
-//  }
-
 ]
