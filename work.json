@@ -2,23 +2,21 @@
   {
     "code": "blackfeather",
     "company": "BlackFeather",
+    "template": "work/blackfeather.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1478269238/work-card/BlackFeather_500x500_ktvdb2.jpg",
       "logo": "website/clients/blackfeather.svg",
-      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>",
-      "template": "work/blackfeather.html",
-      "controller": "WorkBlackfeatherCtrl"
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
     }
   },
   {
     "code": "teem",
     "company": "teem",
+    "template": "work/teem.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1478269238/work-card/Teem_500x500_gitioi.jpg",
       "logo": "website/clients/teem.svgg",
-      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>",
-      "template": "work/teem.html",
-      "controller": "WorkTeemCtrl"
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
     }
   }
 ]
