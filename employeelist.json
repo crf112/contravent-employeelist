@@ -63,7 +63,7 @@
     "about" : "Steve Job's and Lady Gaga's secret love child, tabby cat enthusiast, loves technology more than Daft Punk",
     "id" : 3,
     "title" : "Designer",
-    "name" : "Johurimam Noah Kuddus",
+    "name" : "Noah Kuddus",
     "team" : "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/noah-kuddus_y0yyuf.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/noah-kuddus_atew2p.jpg",
@@ -935,8 +935,8 @@
     "title" : "Office Manager ",
     "name" : "Emily Clare",
     "team" : "Ops",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/emily-clare_r6chku.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/emily-clare_svhl0m.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638424/headshot/emily-clare_bh1qll.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638514/expression/emily-clare-2_c8oxmu.jpg",
     "socialmedia": [
       {
         "title": "Linkedin",
@@ -965,8 +965,8 @@
     "title" : "Developer",
     "name" : "Scott Madsen",
     "team" : "Build",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/scott-madsen_ck77wb.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/scott-madsen_irzzd3.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638425/headshot/scott-madsen_rzxzih.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638515/expression/scott-madsen-2_zmivii.jpg",
     "socialmedia": [
       {
         "title": "Linkedin",
