@@ -1,991 +1,1291 @@
 [
   {
-    "about" : "Grew up a military brat chasing squids and eels at 8 years old in the pacific islands. Avid mountain biker. Alaska State Motocross Champion. Zero to 4 kids in 2 years.",
-    "id" : 1,
-    "title" : "Product Director",
-    "name" : "Brian Lampright",
-    "team" : "build",
+    "about": "Grew up a military brat chasing squids and eels at 8 years old in the pacific islands. Avid mountain biker. Alaska State Motocross Champion. Zero to 4 kids in 2 years.",
+    "id": 1,
+    "title": "Product Director",
+    "name": "Brian Lampright",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/brian-lampright_craifa.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/brian-lampright_txjvni.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/brianlampright",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "100mi Longest Family Mountain Bike Adventure"
+        "id": 1,
+        "body": "100mi Longest Family Mountain Bike Adventure"
       },
       {
-        "id" : 2,
-        "body" : "2000gal of Petrol per year"
+        "id": 2,
+        "body": "2000gal of Petrol per year"
       },
       {
-        "id" : 3,
-        "body" : "Offsets carbon footprint with solar power :)"
+        "id": 3,
+        "body": "Offsets carbon footprint with solar power :)"
       }
     ]
   },
   {
-    "about" : "Compulsive organizer, lover of design, beauty and fashion, budding world traveler, mom of boys and a Labrador, protector of elephants",
-    "id" : 2,
-    "title" : "Group Account Director",
-    "name" : "Marina Riedel",
-    "team" : "ops",
+    "about": "Compulsive organizer, lover of design, beauty and fashion, budding world traveler, mom of boys and a Labrador, protector of elephants",
+    "id": 2,
+    "title": "Group Account Director",
+    "name": "Marina Riedel",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/marina-riedel_eyujjc.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/marina-riedel_llqut2.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/marina-riedel-10767617",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "685,481 # of miles flown"
+        "id": 1,
+        "body": "685,481 # of miles flown"
       },
       {
-        "id" : 2,
-        "body" : "99+ percentile scored on every standardized test ever taken"
+        "id": 2,
+        "body": "99+ percentile scored on every standardized test ever taken"
       },
       {
-        "id" : 3,
-        "body" : "5 # of people in the world I completely trust"
+        "id": 3,
+        "body": "5 # of people in the world I completely trust"
       }
     ]
   },
   {
-    "about" : "Steve Job's and Lady Gaga's secret love child, tabby cat enthusiast, loves technology more than Daft Punk",
-    "id" : 3,
-    "title" : "Designer",
-    "name" : "Noah Kuddus",
-    "team" : "engage",
+    "about": "Steve Job's and Lady Gaga's secret love child, tabby cat enthusiast, loves technology more than Daft Punk",
+    "id": 3,
+    "title": "Designer",
+    "name": "Johurimam Noah Kuddus",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/noah-kuddus_y0yyuf.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/noah-kuddus_atew2p.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/johurimam",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "138 Nintendo games, Metroid, Zelda, All of the above"
+        "id": 1,
+        "body": "138 Nintendo games, Metroid, Zelda, All of the above"
       },
       {
-        "id" : 2,
-        "body" : "Font rapper name: Papy Rus"
+        "id": 2,
+        "body": "Font rapper name: Papy Rus"
       },
       {
-        "id" : 3,
-        "body" : "42 inches cumulative platform shoe height"
+        "id": 3,
+        "body": "42 inches cumulative platform shoe height"
       }
     ]
   },
   {
-    "about" : "Designer, CrossFitter, sane cat lady, mountain craver, upbeat feminist",
-    "id" : 5,
-    "title" : "Designer",
-    "name" : "Mandy Booth",
-    "team" : "engage",
+    "about": "Designer, CrossFitter, sane cat lady, mountain craver, upbeat feminist",
+    "id": 5,
+    "title": "Designer",
+    "name": "Mandy Booth",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/mandy-booth_pfasiu.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/mandy-booth_fzxbkm.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "https://www.linkedin.com/in/mandy-booth-ba888333",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Rough annual pull-up count: 2,937"
+        "id": 1,
+        "body": "Rough annual pull-up count: 2,937"
       },
       {
-        "id" : 2,
-        "body" : "Font rapper name: Booth Antiqua"
+        "id": 2,
+        "body": "Font rapper name: Booth Antiqua"
       },
       {
-        "id" : 3,
-        "body" : "Fueled by weird balance of espresso and anxiety"
+        "id": 3,
+        "body": "Fueled by weird balance of espresso and anxiety"
       }
     ]
   },
   {
-    "about" : "Botany lover, #1 Patriots hater, Ravenclaw \/ ENTJ \/ Earth Bender, Stephen Colbert’s future wife",
-    "id" : 6,
-    "title" : "Senior Designer",
-    "name" : "Raisa Kuddus",
-    "team" : "engage",
+    "about": "Botany lover, #1 Patriots hater, Ravenclaw / ENTJ / Earth Bender, Stephen Colbert’s future wife",
+    "id": 6,
+    "title": "Senior Designer",
+    "name": "Raisa Kuddus",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/mandy-booth_pfasiu.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/raisa-kuddus_hf4trx.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/raisakuddus",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Hours of Sims (1,2,3 & 4) played in my lifetime: 7,442"
+        "id": 1,
+        "body": "Hours of Sims (1,2,3 & 4) played in my lifetime: 7,442"
       },
       {
-        "id" : 2,
-        "body" : "Font rapper name: Wing Dinga"
+        "id": 2,
+        "body": "Font rapper name: Wing Dinga"
       },
       {
-        "id" : 3,
-        "body" : "Zero # of cavities and broken bones"
+        "id": 3,
+        "body": "Zero # of cavities and broken bones"
       }
     ]
   },
   {
-    "about" : "Inventor, ukulele lover, the &quot;fun&quot; grandpa. A pillow is my peace of mind.",
-    "id" : 8,
-    "title" : "VP of Strategy",
-    "name" : "Steve Parker",
-    "team" : "engage",
+    "about": "Inventor, ukulele lover, the &quot;fun&quot; grandpa. A pillow is my peace of mind.",
+    "id": 8,
+    "title": "VP Strategy",
+    "name": "Steve Parker",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185031/headshot/steve-parker_gwuyks.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184852/expression/steve-parker_y4xs4x.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/steveparker1",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "1,113 songs performed in private every year"
+        "id": 1,
+        "body": "1,113 songs performed in private every year"
       },
       {
-        "id" : 2,
-        "body" : "Possess 9 out of 10 ‘good husband’ traits"
+        "id": 2,
+        "body": "Possess 9 out of 10 ‘good husband’ traits"
       },
       {
-        "id" : 3,
-        "body" : "After visiting 63 countries, thinking is the best way to travel"
+        "id": 3,
+        "body": "After visiting 63 countries, thinking is the best way to travel"
       }
     ]
   },
   {
-    "about" : "Family man and love it, avid listener of podcasts and audiobooks, Excel nerd, have brother named Matt Hardy – neither of us in WWE",
-    "id" : 9,
-    "title" : "Client Finance Manager",
-    "name" : "Jeff Hardy",
-    "team" : "ops",
+    "about": "Family man and love it, avid listener of podcasts and audiobooks, Excel nerd, have brother named Matt Hardy – neither of us in WWE",
+    "id": 9,
+    "title": "Client Finance Accountant",
+    "name": "Jeff Hardy",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/jeff-hardy_yevi5l.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/jeff-hardy_tycbbd.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/jeff-hardy-3222aa18",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "1,922 hours listening to Audible books"
+        "id": 1,
+        "body": "1,922 hours listening to Audible books"
       },
       {
-        "id" : 2,
-        "body" : "Weekend-warrior soccer player"
+        "id": 2,
+        "body": "Weekend-warrior soccer player"
       },
       {
-        "id" : 3,
-        "body" : "Most people I meet know a doppelgänger of me"
+        "id": 3,
+        "body": "Most people I meet know a doppelgänger of me"
       }
     ]
   },
   {
-    "about" : "Formerly Gossip Girl. A silmarillionaire and ambiturner. Continually disappointed Joe fan. Abides.",
-    "id" : 10,
-    "title" : "Senior Copywriter",
-    "name" : "Nate Parkinson",
-    "team" : "engage",
+    "about": "Formerly Gossip Girl. A silmarillionaire and ambiturner. Continually disappointed Joe fan. Abides.",
+    "id": 10,
+    "title": "Senior Copywriter",
+    "name": "Nate Parkinson",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/nate-parkinson_t0j2gw.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/nate-parkinson_p5cn4q.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/nate-parkinson-15672524",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Number of times talents were taken to South Beach: 0"
+        "id": 1,
+        "body": "Number of times talents were taken to South Beach: 0"
       },
       {
-        "id" : 2,
-        "body" : "Free Solo First Ascents: 4"
+        "id": 2,
+        "body": "Free Solo First Ascents: 4"
       },
       {
-        "id" : 3,
-        "body" : "Favorite Pokémon: Curmudgeon"
+        "id": 3,
+        "body": "Favorite Pokémon: Curmudgeon"
       }
     ]
   },
   {
-    "about" : "Lover of country music, reading, and reality TV. Traveler. Athlete",
-    "id" : 11,
-    "title" : "Account Manager",
-    "name" : "Jessica Evans",
-    "team" : "ops",
+    "about": "Lover of country music, reading, and reality TV. Traveler. Athlete",
+    "id": 11,
+    "title": "Project Manager",
+    "name": "Jessica Evans",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/jessica-evans_j914qi.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/jessica-evans_kqro77.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/jessica-evans-b72237101",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Diet consists of Chili's chips & salsa or Chinese food"
+        "id": 1,
+        "body": "Diet consists of Chili's chips & salsa or Chinese food"
       },
       {
-        "id" : 2,
-        "body" : "My Patronus is Taylor Swift"
+        "id": 2,
+        "body": "My Patronus is Taylor Swift"
       },
       {
-        "id" : 3,
-        "body" : "Happiness comes from crossing things off a list"
+        "id": 3,
+        "body": "Happiness comes from crossing things off a list"
       }
     ]
   },
   {
-    "about" : "Enabler, serial organizer, tattoo aficionado, hockey junkie, boxing wannabe, adorer of tiny humans, consumer of brown liquor, coolest mom ever.",
-    "id" : 12,
-    "title" : "Program Director",
-    "name" : "Lisa Stewart",
-    "team" : "ops",
+    "about": "Enabler, serial organizer, tattoo aficionado, hockey junkie, boxing wannabe, adorer of tiny humans, consumer of brown liquor, coolest mom ever.",
+    "id": 12,
+    "title": "Program Director",
+    "name": "Lisa Stewart",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/lisa-stewart_grjcor.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/lisa-stewart_x8r8sv.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/lisa-stewart-6668695",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Over 1.35 million punches thrown. Zero landed on a human face. Yet."
+        "id": 1,
+        "body": "Over 1.35 million punches thrown. Zero landed on a human face. Yet."
       },
       {
-        "id" : 2,
-        "body" : "Once procured 50 In-N-Out Double Doubles, a bag of Blonde Oreos and a box of Sharpies for Snoop Dogg."
+        "id": 2,
+        "body": "Once procured 50 In-N-Out Double Doubles, a bag of Blonde Oreos and a box of Sharpies for Snoop Dogg."
       },
       {
-        "id" : 3,
-        "body" : "5,432,223 tears of joy shed while watching hockey"
+        "id": 3,
+        "body": "5,432,223 tears of joy shed while watching hockey"
       }
     ]
   },
   {
-    "about" : "Strategist, Music Junkie, Baseball Fanatic, Runner, Photography Hound, Dive Bar Enthusiast always hunting for the next.",
-    "id" : 15,
-    "title" : "Managing Director",
-    "name" : "Todd Ruff",
-    "team" : "engage",
+    "about": "Strategist, Music Junkie, Baseball Fanatic, Runner, Photography Hound, Dive Bar Enthusiast always hunting for the next.",
+    "id": 15,
+    "title": "Strategy Director",
+    "name": "Todd Ruff",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185031/headshot/todd-ruff_avpik0.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184852/expression/todd-ruff_tcl6yg.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/toddruff",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "7,975 days parenting"
+        "id": 1,
+        "body": "7,975 days parenting"
       },
       {
-        "id" : 2,
-        "body" : "227 bands seen at ACL"
+        "id": 2,
+        "body": "227 bands seen at ACL"
       },
       {
-        "id" : 3,
-        "body" : "9.01 Running Pace 1 Double Eagle"
+        "id": 3,
+        "body": "9.01 Running Pace 1 Double Eagle"
       }
     ]
   },
   {
-    "about" : "Hirsute, Pro-Han Solo, &quot; How you do one thing is how you do every thing,&quot; often compared to a walk in a meadow, still mad at that time Lando took off in the Millennium Falcon.",
-    "id" : 16,
-    "title" : "Creative Director",
-    "name" : "Joe Bartenhagen",
-    "team" : "engage",
+    "about": "Hirsute, Pro-Han Solo, &quot; How you do one thing is how you do every thing,&quot; often compared to a walk in a meadow, still mad at that time Lando took off in the Millennium Falcon.",
+    "id": 16,
+    "title": "Creative Director",
+    "name": "Joe Bartenhagen",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/joe-bartenhagen_flmcjo.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/joe-bartenhagen_lhnd7w.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
         "url": "",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Talking about doing things"
+        "id": 1,
+        "body": "Talking about doing things"
       },
       {
-        "id" : 2,
-        "body" : "Buying things that will help me do things"
+        "id": 2,
+        "body": "Buying things that will help me do things"
       },
       {
-        "id" : 3,
-        "body" : "Actually doing things"
+        "id": 3,
+        "body": "Actually doing things"
       }
     ]
   },
   {
-    "about" : "Gryffindor, mountain biker, bleeder of a deep Cougar blue, insatiable reader, spreadsheet groupie. Always Yoshi in Mario Kart.",
-    "id" : 17,
-    "title" : "Program Director",
-    "name" : "Deedee Olsen",
-    "team" : "ops",
+    "about": "Gryffindor, mountain biker, bleeder of a deep Cougar blue, insatiable reader, spreadsheet groupie. Always Yoshi in Mario Kart.",
+    "id": 17,
+    "title": "Group Program Director",
+    "name": "Deedee Olsen",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/deedee-olsen_bctygf.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/deedee-olsen_hlng7y.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/deedee-olsen-9699313a",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "3 # of times a day I practice being ambidextrous"
+        "id": 1,
+        "body": "3 # of times a day I practice being ambidextrous"
       },
       {
-        "id" : 2,
-        "body" : "Preferred gaming console – N64"
+        "id": 2,
+        "body": "Preferred gaming console – N64"
       },
       {
-        "id" : 3,
-        "body" : "Will work for chocolate"
+        "id": 3,
+        "body": "Will work for chocolate"
       }
     ]
   },
   {
-    "about" : "Indie film enthusiast, typography nerd, breakfast burrito connoisseur",
-    "id" : 18,
-    "title" : "UX Designer",
-    "name" : "Fiona Foster",
-    "team" : "build",
+    "about": "Indie film enthusiast, typography nerd, breakfast burrito connoisseur",
+    "id": 18,
+    "title": "UX Designer",
+    "name": "Fiona Foster",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/fiona-foster_gi5ckz.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/fiona-foster_zsquwx.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/fionamfoster",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Lover of last minute road trips"
+        "id": 1,
+        "body": "Lover of last minute road trips"
       },
       {
-        "id" : 2,
-        "body" : "Yoga enthusiast and avid hiker"
+        "id": 2,
+        "body": "Yoga enthusiast and avid hiker"
       },
       {
-        "id" : 3,
-        "body" : "Arizona native and self-proclaimed tortilla expert"
+        "id": 3,
+        "body": "Arizona native and self-proclaimed tortilla expert"
       }
     ]
   },
   {
-    "about" : "Defender of pit bulls, boeuf bourguignon chef extraordinaire, skilled pfifferlingen hunter, Brown Coat.",
-    "id" : 21,
-    "title" : "Production Designer",
-    "name" : "Elisha Frey",
-    "team" : "engage",
+    "about": "Defender of pit bulls, boeuf bourguignon chef extraordinaire, skilled pfifferlingen hunter, Brown Coat.",
+    "id": 21,
+    "title": "Production Designer",
+    "name": "Elisha Frey",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/elisha-frey_owygor.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/elisha-frey_gfbvkp.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/elisha-frey-2a043385",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "624 individual Star Trek episodes watched"
+        "id": 1,
+        "body": "624 individual Star Trek episodes watched"
       },
       {
-        "id" : 2,
-        "body" : "923 miles traveled by French rail"
+        "id": 2,
+        "body": "923 miles traveled by French rail"
       },
       {
-        "id" : 3,
-        "body" : "923 miles traveled by French rail"
+        "id": 3,
+        "body": "923 miles traveled by French rail"
       }
     ]
   },
   {
-    "about" : "Lover of the good fight, slayer of dragons, wear-it-on-your-sleeve romantic, devils advocate, terrible poker player",
-    "id" : 22,
-    "title" : "Managing Director",
-    "name" : "Steve Rutherford",
-    "team" : "engage",
+    "about": "Lover of the good fight, slayer of dragons, wear-it-on-your-sleeve romantic, devils advocate, terrible poker player",
+    "id": 22,
+    "title": "Managing Director",
+    "name": "Steve Rutherford",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185031/headshot/steve-rutherford_dq6e87.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184852/expression/steve-rutherford_b60gye.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/steve-rutherford-36878216",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Photographer"
+        "id": 1,
+        "body": "Photographer"
       },
       {
-        "id" : 2,
-        "body" : "Urban cowboy"
+        "id": 2,
+        "body": "Urban cowboy"
       },
       {
-        "id" : 3,
-        "body" : "Foodie wino"
+        "id": 3,
+        "body": "Foodie wino"
       }
     ]
   },
   {
-    "about" : "Marketing guy, film buff, tennis junkie, daydreamer, hero-worshipper, awe-inspired fan of art & nature.",
-    "id" : 23,
-    "title" : "CEO",
-    "name" : "Jay Williams",
-    "team" : "ops",
+    "about": "Marketing guy, film buff, tennis junkie, daydreamer, hero-worshipper, awe-inspired fan of art & nature.",
+    "id": 23,
+    "title": "Co-founder / Partner",
+    "name": "Jay Williams",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/jay-williams_wbdwgh.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/jay-williams_bjts9o.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/jay-williams-64a8b35",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Juggler"
+        "id": 1,
+        "body": "Juggler"
       },
       {
-        "id" : 2,
-        "body" : "Incorrigible optimist"
+        "id": 2,
+        "body": "Incorrigible optimist"
       },
       {
-        "id" : 3,
-        "body" : "Wannabe world traveler"
+        "id": 3,
+        "body": "Wannabe world traveler"
       }
     ]
   },
   {
-    "about" : "Animal lover, excell-ent at Excel, Contravent snack mule, number cruncher",
-    "id" : 24,
-    "title" : "Controller",
-    "name" : "Sabreena Regis",
-    "team" : "ops",
+    "about": "Animal lover, excell-ent at Excel, Contravent snack mule, number cruncher",
+    "id": 24,
+    "title": "Controller / HR Director",
+    "name": "Sabreena Regis",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/sabreena-regis_p88yvq.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/sabreena-regis_hbu824.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/sabreena-regis-8a542296",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Owner of the benignly giant office dog"
+        "id": 1,
+        "body": "Owner of the benignly giant office dog"
       },
       {
-        "id" : 2,
-        "body" : "Fascinated by Alaska (not the Palins, but Alaska)"
+        "id": 2,
+        "body": "Fascinated by Alaska (not the Palins, but Alaska)"
       },
       {
-        "id" : 3,
-        "body" : "Dedicated wife and mom"
+        "id": 3,
+        "body": "Dedicated wife and mom"
       }
     ]
   },
   {
-    "about" : "Techie, wise-ass, golfer, traveler",
-    "id" : 26,
-    "title" : "VP of Technology",
-    "name" : "Tom Compagno",
-    "team" : "build",
+    "about": "Techie, wise-ass, golfer, traveler",
+    "id": 26,
+    "title": "VP of Technology",
+    "name": "Tom Compagno",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185031/headshot/tom-compagno_pninep.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184852/expression/tom-compagno_ocgv58.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/tomcompagno",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Never passes up an opportunity to learn a new technology"
+        "id": 1,
+        "body": "Never passes up an opportunity to learn a new technology"
       },
       {
-        "id" : 2,
-        "body" : "Enjoys Scotch and is a little neurotic about coffee"
+        "id": 2,
+        "body": "Enjoys Scotch and is a little neurotic about coffee"
       },
       {
-        "id" : 3,
-        "body" : "Spent one and half years exploring 23 states and 2 countries with his wife and dog"
+        "id": 3,
+        "body": "Spent one and half years exploring 23 states and 2 countries with his wife and dog"
       }
     ]
   },
   {
-    "about" : "Runner, outdoor enthusiast, best bottle of wine under $10 connoisseur, constantly jumping over tree roots and uneven sidewalks, pop culture savant",
-    "id" : 27,
-    "title" : "Account Director",
-    "name" : "Connie Crowell",
-    "team" : "ops",
+    "about": "Runner, outdoor enthusiast, best bottle of wine under $10 connoisseur, constantly jumping over tree roots and uneven sidewalks, pop culture savant",
+    "id": 27,
+    "title": "Project Manager",
+    "name": "Connie Crowell",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/connie-crowell_inzwri.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/connie-crowell_uvudut.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/connie-crowell-9044b411",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Over 1800 miles on my running shoes"
+        "id": 1,
+        "body": "Over 1800 miles on my running shoes"
       },
       {
-        "id" : 2,
-        "body" : "On a mission to master the art of car camping"
+        "id": 2,
+        "body": "On a mission to master the art of car camping"
       },
       {
-        "id" : 3,
-        "body" : "I am actually cooler than my teenage kids think I am"
+        "id": 3,
+        "body": "I am actually cooler than my teenage kids think I am"
       }
     ]
   },
   {
-    "about" : "Utah Utes fanatic, self-proclaimed fitness guru, Converse connoisseur, sun chaser",
-    "id" : 28,
-    "title" : "Designer",
-    "name" : "Craig Mitchell",
-    "team" : "engage",
+    "about": "Utah Utes fanatic, self-proclaimed fitness guru, Converse connoisseur, sun chaser",
+    "id": 28,
+    "title": "Designer",
+    "name": "Craig Mitchell",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/craig-mitchell_jexrda.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/craig-mitchell_paa4mv.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/craig-mitchell",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "12 bad puns made daily"
+        "id": 1,
+        "body": "12 bad puns made daily"
       },
       {
-        "id" : 2,
-        "body" : "365 days of the year should be camping"
+        "id": 2,
+        "body": "365 days of the year should be camping"
       },
       {
-        "id" : 3,
-        "body" : "Font rapper name – Helvetikilla"
+        "id": 3,
+        "body": "Font rapper name – Helvetikilla"
       }
     ]
   },
   {
-    "about" : "Hockey player, Geek, Race car driver, I look like too many celebrities",
-    "id" : 29,
-    "title" : "Technical Project Manager",
-    "name" : "John Miranda",
-    "team" : "build",
+    "about": "Hockey player, Geek, Race car driver, I look like too many celebrities",
+    "id": 29,
+    "title": "Technical Project Manager",
+    "name": "John Miranda",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/john-miranda_cs30ni.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/john-miranda_mnos7p.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/john-miranda",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "My sons, family, and friends are everything!"
+        "id": 1,
+        "body": "My sons, family, and friends are everything!"
       },
       {
-        "id" : 2,
-        "body" : "Love being a Techie!"
+        "id": 2,
+        "body": "Love being a Techie!"
       },
       {
-        "id" : 3,
-        "body" : "Can’t ever have too much fun! Life is short, Joke daily!"
+        "id": 3,
+        "body": "Can’t ever have too much fun! Life is short, Joke daily!"
       }
     ]
   },
   {
-    "about" : "Gotta keep travelin, golfer, snow boarder, Audi enthusiast, consummate builder",
-    "id" : 30,
-    "title" : "Managing Partner",
-    "name" : "Ash Evans",
-    "team" : "ops",
+    "about": "Gotta keep travelin, golfer, snow boarder, Audi enthusiast, consummate builder",
+    "id": 30,
+    "title": "Managing Partner",
+    "name": "Ash Evans",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/ash-evans_yjhtaw.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/ash-evans_dubowf.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
         "url": "",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "My Family: My son Quinn the leukemia survivor, my daughter Claire the bone marrow donor and Laura, my wife, for keeping it all together. We are the lucky ones."
+        "id": 1,
+        "body": "My Family: My son Quinn the leukemia survivor, my daughter Claire the bone marrow donor and Laura, my wife, for keeping it all together. We are the lucky ones."
       },
       {
-        "id" : 2,
-        "body" : "Perspective: Dragged off the Tran Siberian Express from China in the middle of the night in Mongolia –36 took 4 bottles of Thai Whiskey to get my travel visa to pass through to Russia."
+        "id": 2,
+        "body": "Perspective: Dragged off the Tran Siberian Express from China in the middle of the night in Mongolia –36 took 4 bottles of Thai Whiskey to get my travel visa to pass through to Russia."
       },
       {
-        "id" : 3,
-        "body" : "Work passion: building coalitions with great people"
+        "id": 3,
+        "body": "Work passion: building coalitions with great people"
       }
     ]
   },
   {
-    "about" : "Budget traveler, outdoor enthusiast, ponderer of young daughter’s thought process, below average gardener, above average coffee consumer, aspiring carpenter",
-    "id" : 31,
-    "title" : "Account Director",
-    "name" : "Jeff Spencer",
-    "team" : "ops",
+    "about": "Budget traveler, outdoor enthusiast, ponderer of young daughter’s thought process, below average gardener, above average coffee consumer, aspiring carpenter",
+    "id": 31,
+    "title": "Group Account Director",
+    "name": "Jeff Spencer",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/jeff-spencer_awtobh.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/jeff-spencer_qvrigv.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/jeff-spencer-1537294",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Longest bus ride - 36 hours"
+        "id": 1,
+        "body": "Longest bus ride - 36 hours"
       },
       {
-        "id" : 2,
-        "body" : "Average number of status sheets kept - 4"
+        "id": 2,
+        "body": "Average number of status sheets kept - 4"
       },
       {
-        "id" : 3,
-        "body" : "My wife and I brought together by a stray dog"
+        "id": 3,
+        "body": "My wife and I brought together by a stray dog"
       }
     ]
   },
   {
-    "about" : "Builder, driven, passionate, tennis junkie, musical wannabe",
-    "id" : 32,
-    "title" : "Chief Operating Officer",
-    "name" : "Scott Kempema",
-    "team" : "ops",
+    "about": "Builder, driven, passionate, tennis junkie, musical wannabe",
+    "id": 32,
+    "title": "CEO",
+    "name": "Scott Kempema",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/scott-kempema_gvigr5.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/scott-kempema_y4bb22.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/scott-kempema-59b6943",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Appreciate the twists and turns of a new adventure"
+        "id": 1,
+        "body": "Appreciate the twists and turns of a new adventure"
       },
       {
-        "id" : 2,
-        "body" : "Consumed by hundreds of tennis matches each year"
+        "id": 2,
+        "body": "Consumed by hundreds of tennis matches each year"
       },
       {
-        "id" : 3,
-        "body" : "It only matters if my family is happy"
+        "id": 3,
+        "body": "It only matters if my family is happy"
       }
     ]
   },
   {
-    "about" : "Cat enthusiast, bookworm, amateur cake artisan, reality show anthropologist, and crossword devotee",
-    "id" : 36,
-    "title" : "Account Manager",
-    "name" : "Blythe Van Gordon",
-    "team" : "ops",
+    "about": "Cat enthusiast, bookworm, amateur cake artisan, reality show anthropologist, and crossword devotee",
+    "id": 36,
+    "title": "Senior Project Manager",
+    "name": "Blythe Van Gordon",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/blythe-van-gordon_sfd5l4.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/blythe-van-gordon_jxzonz.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/blythevangordon",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Avid baker"
+        "id": 1,
+        "body": "Avid baker"
       },
       {
-        "id" : 2,
-        "body" : "Endless butter\/sugar\/flour provisioning trips"
+        "id": 2,
+        "body": "Endless butter/sugar/flour provisioning trips"
       },
       {
-        "id" : 3,
-        "body" : "Unapologetic Costco fanatic"
+        "id": 3,
+        "body": "Unapologetic Costco fanatic"
       }
     ]
   },
   {
-    "about" : "Design lover, dog walker, nascent globe trotter and kitchen gadget collector",
-    "id" : 37,
-    "title" : "VP, Creative Services",
-    "name" : "Robyn Erkelens",
-    "team" : "engage",
+    "about": "Design lover, dog walker, nascent globe trotter and kitchen gadget collector",
+    "id": 37,
+    "title": "VP, Creative Services",
+    "name": "Robyn Erkelens",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/robyn-erkelens_asq3zw.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/robyn-erkelens_wf3vqc.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/robynerkelens",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "18,250 cups of coffee consumed"
+        "id": 1,
+        "body": "18,250 cups of coffee consumed"
       },
       {
-        "id" : 2,
-        "body" : "4,680 miles run"
+        "id": 2,
+        "body": "4,680 miles run"
       },
       {
-        "id" : 3,
-        "body" : "14 countries visited"
+        "id": 3,
+        "body": "14 countries visited"
       }
     ]
   },
   {
-    "about" : "Doesn't write code. Stares at the computer screen until he gets the program he wants.",
-    "id" : 38,
-    "title" : "Senior Front-end Developer",
-    "name" : "Jake Astle",
-    "team" : "build",
+    "about": "Doesn't write code. Stares at the computer screen until he gets the program he wants.",
+    "id": 38,
+    "title": "Senior Developer",
+    "name": "Jake Astle",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/jake-astle_km0qzf.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/jake-astle_fjwvkk.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "https://www.linkedin.com/in/jake-astle",
+        "url": "http://www.linkedin.com/in/jake-astle",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "It&#39;s not a bug. It&#39;s a feature."
+        "id": 1,
+        "body": "It&#39;s not a bug. It&#39;s a feature."
       },
       {
-        "id" : 2,
-        "body" : "Knock, knock. Who&#39;s there? very long pause…. Java."
+        "id": 2,
+        "body": "Knock, knock. Who&#39;s there? very long pause…. Java."
       },
       {
-        "id" : 3,
-        "body" : "Still trying to win an Oscar every time steps on a soccer field."
+        "id": 3,
+        "body": "Still trying to win an Oscar every time steps on a soccer field."
       }
     ]
   },
   {
-    "about" : "Can't hear you over the majesty of his beard.",
-    "id" : 39,
-    "title" : "VP, Product Design",
-    "name" : "Ryan Potter",
-    "team" : "build",
+    "about": "Can't hear you over the majesty of his beard.",
+    "id": 39,
+    "title": "VP, Product Design",
+    "name": "Ryan Potter",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/ryan-potter_ygznkd.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184852/expression/ryan-potter_ggncr5.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
         "url": "",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "So redneck, he thinks &quot;kern&quot; is on the cob."
+        "id": 1,
+        "body": "So redneck, he thinks &quot;kern&quot; is on the cob."
       },
       {
-        "id" : 2,
-        "body" : "Can count to potato"
+        "id": 2,
+        "body": "Can count to potato"
       },
       {
-        "id" : 3,
-        "body" : "Manscaper"
+        "id": 3,
+        "body": "Manscaper"
       }
     ]
   },
   {
-    "about" : "People laugh at my jokes because I hired them",
-    "id" : 40,
-    "title" : "President, Chief Creative Officer",
-    "name" : "Brian Deaver",
-    "team" : "ops",
+    "about": "People laugh at my jokes because I hired them",
+    "id": 40,
+    "title": "President, Chief Creative Officer",
+    "name": "Brian Deaver",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/brian-deaver_mt5ktw.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/brian-deaver_vohdtp.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/brian-deaver-4111143",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "My mama says my freckles are angel kisses"
+        "id": 1,
+        "body": "My mama says my freckles are angel kisses"
       },
       {
-        "id" : 2,
-        "body" : "Ginger"
+        "id": 2,
+        "body": "Ginger"
       },
       {
-        "id" : 3,
-        "body" : "Wears sunblock even at night"
+        "id": 3,
+        "body": "Wears sunblock even at night"
       }
     ]
   },
   {
-    "about" : "Master orchestrator who loves to collaborate with people and use technology to drive amazing results, travel enthusiast, career mentor and womens advocate",
-    "id" : 45,
-    "title" : "CIO",
-    "name" : "Julie Simmons",
-    "team" : "Ops",
+    "about": "Master orchestrator who loves to collaborate with people and use technology to drive amazing results, travel enthusiast, career mentor and womens advocate",
+    "id": 45,
+    "title": "COO",
+    "name": "Julie Simmons",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/julie-simmons_s4tonr.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/julie-simmons_su8yzu.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/julsimmons",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Recovering dietcoke-aholic"
+        "id": 1,
+        "body": "Recovering dietcoke-aholic"
       },
       {
-        "id" : 2,
-        "body" : "Once fell off cheerleading pyramid and ended up in intensive care"
+        "id": 2,
+        "body": "Once fell off cheerleading pyramid and ended up in intensive care"
       },
       {
-        "id" : 3,
-        "body" : "Never met a gadget I didn’t like"
+        "id": 3,
+        "body": "Never met a gadget I didn’t like"
       }
     ]
   },
   {
-    "about" : "Marin County California native.  Foodie with an obsession for candy.  Company &quot;catch all&quot; with a sparkling personality and a gift for wearing everything that I eat. ",
-    "id" : 46,
-    "title" : "Office Manager ",
-    "name" : "Emily Clare",
-    "team" : "Ops",
+    "about": "Marin County California native.  Foodie with an obsession for candy.  Company &quot;catch all&quot; with a sparkling personality and a gift for wearing everything that I eat. ",
+    "id": 46,
+    "title": "Office Manager ",
+    "name": "Emily Clare",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638424/headshot/emily-clare_bh1qll.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638514/expression/emily-clare-2_c8oxmu.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
         "url": "",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
-        "id" : 1,
-        "body" : "Runner-trail blazer"
+        "id": 1,
+        "body": "Runner-trail blazer"
       },
       {
-        "id" : 2,
-        "body" : "Biography enthusiast- I don’t do fairy tales"
+        "id": 2,
+        "body": "Biography enthusiast- I don’t do fairy tales"
       },
       {
-        "id" : 3,
-        "body" : "Slight Audrey Hepburn obsession"
+        "id": 3,
+        "body": "Slight Audrey Hepburn obsession"
       }
     ]
   },
   {
-    "about" : "Music nerd, puzzle person, will refer to something as a &quot;module&quot;, given the slightest opportunity.",
-    "id" : 47,
-    "title" : "Developer",
-    "name" : "Scott Madsen",
-    "team" : "Build",
+    "about": "Music nerd, puzzle person, will refer to something as a &quot;module&quot;, given the slightest opportunity.",
+    "id": 47,
+    "title": "Developer",
+    "name": "Scott Madsen",
+    "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638425/headshot/scott-madsen_rzxzih.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638515/expression/scott-madsen-2_zmivii.jpg",
-    "socialmedia": [
+    "social-media": [
       {
         "title": "Linkedin",
-        "url": "",
+        "url": "http://www.linkedin.com/in/scott-madsen-82413157",
         "icon": "icon-linkedin"
       }
     ],
-    "bullets" : [
+    "bullets": [
       {
         "id": 1,
         "body": "Favorite wireless communication is radio"
       },
       {
-        "id" : 2,
-        "body" : "Rides a snowmobile to work"
+        "id": 2,
+        "body": "Rides a snowmobile to work"
       },
       {
-        "id" : 3,
-        "body" : "My favorite pi is raspberry"
+        "id": 3,
+        "body": "My favorite pi is raspberry"
+      }
+    ]
+  },
+  {
+    "about": "Founder and executive producer of Nitro Circus, and in his spare time, he\nfounded an agency and started a whiskey brand.",
+    "id": 48,
+    "title": "Executive Producer",
+    "name": "Jeremy Rawle",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638424/headshot/jeremy-rawle_x1vtuv.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638514/expression/jeremy-rawle-2_quyd4v.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/jeremy-rawle-a2566476",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Regularly communes with whales"
+      },
+      {
+        "id": 2,
+        "body": "Singing voice like rich mahogany"
+      },
+      {
+        "id": 3,
+        "body": "Able to lift a motorcycle over his head"
+      }
+    ]
+  },
+  {
+    "about": "His business acumen is exceeded only by the beauty of his hair. Seriously.",
+    "id": 49,
+    "title": "Group Managing Director",
+    "name": "Brett Tippetts",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/emily-clare_r6chku.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/brett-tippetts-a018241",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Eats a diet of whey protein and baby ducks"
+      },
+      {
+        "id": 2,
+        "body": "Is actually 73-years old"
+      },
+      {
+        "id": 3,
+        "body": "Has a collection of over 4,857 sweaters"
+      }
+    ]
+  },
+  {
+    "about": "Coffee-driven designer, dog whisperer, loves a good Western, wunderkind of the trivial, mortal enemy of tequila.",
+    "id": 50,
+    "title": "Designer",
+    "name": "Mike Harris",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638424/headshot/mike-harris_zpfcqi.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638514/expression/mike-harris-2_gw61yz.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/mikeharrisdesign",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Survived 4 music festivals and counting"
+      },
+      {
+        "id": 2,
+        "body": "Did my time in the Water Temple"
+      },
+      {
+        "id": 3,
+        "body": "Olen kansalainen Suomi"
+      }
+    ]
+  },
+  {
+    "about": "If Malena ever stopped working, many of us would not know what to do with ourselves.",
+    "id": 51,
+    "title": "Group Account Director",
+    "name": "Malena Johnson",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638428/headshot/malena-johnson_zqv3b5.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638515/expression/Malena-johnson-2_tazryo.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/malena-johnson-b7b6354",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "President of the Lauryn Hill fan club"
+      },
+      {
+        "id": 2,
+        "body": "Kicking Contravent's Ass in Fantasy Football"
+      },
+      {
+        "id": 3,
+        "body": "Loves a Baseball pro, hates baseball"
+      }
+    ]
+  },
+  {
+    "about": "If Mickey Mantle and Warren Buffet had a baby and fed that baby only red meat until it was old enough to go to business school, that baby would be Jake Osborne.",
+    "id": 52,
+    "title": "Chief Growth Officer",
+    "name": "Jake Osborne",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/emily-clare_r6chku.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/in/jake-osborne-8992876",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Plays the harmonica, but not with his mouth"
+      },
+      {
+        "id": 2,
+        "body": "NOT the son of Mickey Mantle and Warren Buffet"
+      },
+      {
+        "id": 3,
+        "body": "Top speed on foot: 47 miles an hour."
+      }
+    ]
+  },
+  {
+    "about": "Mandy Reid put off her promising career as a lion tamer to come to work for us, though she still insists on coming to work everyday in her lion tamer outfit.",
+    "id": 53,
+    "title": "Accounting",
+    "name": "Mandy Reid",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/emily-clare_r6chku.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/mandy-reid-76b7bb25",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "She was a child star on Korean television"
+      },
+      {
+        "id": 2,
+        "body": "Her favorite animal is trout"
+      },
+      {
+        "id": 3,
+        "body": "Her middle name is trout"
+      }
+    ]
+  },
+  {
+    "about": "Rilee Buttars is former Navy Seal and chef who also holds the record for the longest haiku ever written.",
+    "id": 54,
+    "title": "Project Manager",
+    "name": "Rilee Buttars",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638426/headshot/rilee-buttars_to8emj.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638515/expression/rilee-buttars-2_iuz45n.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/rileebuttars",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "She commutes to work everyday in a hot air balloon"
+      },
+      {
+        "id": 2,
+        "body": "Everything she eats, she eats with her bare hands. Even soup."
+      },
+      {
+        "id": 3,
+        "body": "When she gets on the furniture, we spray her with a plant mister"
+      }
+    ]
+  },
+  {
+    "about": "I'm hectic. I wreck it with the quickness.",
+    "id": 55,
+    "title": "Strategy Director",
+    "name": "Dan Fletcher",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638427/headshot/dan-fletcher_y8zcew.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638514/expression/dan-fletcher-2_zceyvz.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/danielwilliamfletcher",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "RZA"
+      },
+      {
+        "id": 2,
+        "body": "GZA"
+      },
+      {
+        "id": 3,
+        "body": "ODB"
+      }
+    ]
+  },
+  {
+    "about": "Ping Pong Slayer, Bald is the New Black, Sirius Black",
+    "id": 56,
+    "title": "Creative Director",
+    "name": "Phil Hunter",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638425/headshot/phil-hunter_wsmsxf.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638515/expression/phil-hunter-2_rphra7.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/philbhunter",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "On-Time"
+      },
+      {
+        "id": 2,
+        "body": "Never Late"
+      },
+      {
+        "id": 3,
+        "body": "Always Great"
+      }
+    ]
+  },
+  {
+    "about": "Former dance instructor who brings his love of choreography to everything he does.",
+    "id": 57,
+    "title": "Project Manager",
+    "name": "Jared Christensen",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478638424/headshot/jared-christensen_jequfr.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478638515/expression/jared-christensen-2_tiudok.jpg",
+    "social-media": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/jaredbchristensen",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Voice has been heard on Utah's airwaves for over 200 hours of live FM radio"
+      },
+      {
+        "id": 2,
+        "body": "Carl Speckler and Ty Webb admirer, Magnum PI Rememberer, Fletch"
+      },
+      {
+        "id": 3,
+        "body": "Uses a Flowbee to cut his own hair, often during meetings"
       }
     ]
   }
