@@ -1,6 +1,17 @@
 [
   {
-    "index": 0,
+    "leftImage": "http://res.cloudinary.com/conravent/image/upload/v1479153272/hero/donut_duct_tape_left_uvajeg.jpg",
+    "rightImage": "http://res.cloudinary.com/conravent/image/upload/v1479153272/hero/donut_duct_tape_right_hqiaks.jpg"
+  },
+  {
+    "leftImage": "http://res.cloudinary.com/conravent/image/upload/v1479153272/hero/donut_duct_tape_left_uvajeg.jpg",
+    "rightImage": "http://res.cloudinary.com/conravent/image/upload/v1479153272/hero/donut_duct_tape_right_hqiaks.jpg"
+  },
+  {
+    "leftImage": "http://res.cloudinary.com/conravent/image/upload/v1479153272/hero/donut_duct_tape_left_uvajeg.jpg",
+    "rightImage": "http://res.cloudinary.com/conravent/image/upload/v1479153272/hero/donut_duct_tape_right_hqiaks.jpg"
+  },
+  {
     "leftImage": "http://res.cloudinary.com/conravent/image/upload/v1479153272/hero/donut_duct_tape_left_uvajeg.jpg",
     "rightImage": "http://res.cloudinary.com/conravent/image/upload/v1479153272/hero/donut_duct_tape_right_hqiaks.jpg"
   }
