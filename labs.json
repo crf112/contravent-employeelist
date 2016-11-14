@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Services",
+    "options": [
+      {
+        "icon": "icon-labs-services-1",
+        "text": "Start ups"
+      },
+      {
+        "icon": "icon-labs-services-2",
+        "text": "Corporate spin-ins"
+      },
+      {
+        "icon": "icon-labs-services-3",
+        "text": "Market testing"
+      },
+      {
+        "icon": "icon-labs-services-4",
+        "text": "Product & service development"
+      },
+      {
+        "icon": "icon-labs-services-5",
+        "text": "Coalition formation"
+      }
+    ]
+  },
+  {
+    "title": "Requirements",
+    "options": [
+      {
+        "icon": "icon-labs-requirements-1",
+        "text": "Nail it & scale it incubation"
+      },
+      {
+        "icon": "icon-labs-requirements-2",
+        "text": "Rapid innovation"
+      },
+      {
+        "icon": "icon-labs-requirements-3",
+        "text": "Eliminate internal bureaucracy"
+      },
+      {
+        "icon": "icon-labs-requirements-4",
+        "text": "Vested subect matter epertise"
+      },
+      {
+        "icon": "icon-labs-requirements-5",
+        "text": "Industry alignment"
+      }
+    ]
+  }
+]
