@@ -1,12 +1,13 @@
 [
+
   {
-    "code": "blackfeather",
-    "company": "BlackFeather",
-    "template": "work/blackfeather.html",
+    "code": "teem",
+    "company": "teem",
+    "template": "work/teem.html",
     "card": {
-      "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/BlackFeather_500x500_wtfwcv.jpg",
-      "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235691/blackfeather/whitelogo_szy2un.png",
-      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
+      "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Teem_500x500_xaakyg.jpg",
+      "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
+      "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
     }
   },
   {
@@ -29,14 +30,15 @@
       "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
     }
   },
+
   {
-    "code": "teem",
-    "company": "teem",
-    "template": "work/teem.html",
+    "code": "blackfeather",
+    "company": "BlackFeather",
+    "template": "work/blackfeather.html",
     "card": {
-      "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Cloudflare_500x500_dxcedk.jpg",
-      "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
-      "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
+      "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/BlackFeather_500x500_wtfwcv.jpg",
+      "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235691/blackfeather/whitelogo_szy2un.png",
+      "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
     }
   },
   {
@@ -74,9 +76,10 @@
     "company": "teem",
     "template": "work/teem.html",
     "card": {
-      "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Teem_500x500_xaakyg.jpg",
+      "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Cloudflare_500x500_dxcedk.jpg",
       "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
       "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
     }
   }
+
 ]
