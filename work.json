@@ -11,9 +11,9 @@
     }
   },
   {
-    "code": "teem",
-    "company": "teem",
-    "template": "work/teem.html",
+    "code": "fireeye",
+    "company": "fireeye",
+    "template": "work/fireeye.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Teem_500x500_xaakyg.jpg",
       "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
@@ -21,9 +21,9 @@
     }
   },
   {
-    "code": "teem",
-    "company": "teem",
-    "template": "work/teem.html",
+    "code": "weave",
+    "company": "weave",
+    "template": "work/weave.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/WEAVE_500x500_jndsgy.jpg",
       "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
@@ -42,9 +42,9 @@
     }
   },
   {
-    "code": "teem",
-    "company": "teem",
-    "template": "work/teem.html",
+    "code": "kenandy",
+    "company": "kenandy",
+    "template": "work/kenandy.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1479249538/work-card/Kenandy_500x500_epvxl2.jpg",
       "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
@@ -52,9 +52,9 @@
     }
   },
   {
-    "code": "teem",
-    "company": "teem",
-    "template": "work/teem.html",
+    "code": "centurylink",
+    "company": "centurylink",
+    "template": "work/centurylink.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/CTL_500x500_qtizil.jpg",
       "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
@@ -62,8 +62,8 @@
     }
   },
   {
-    "code": "teem",
-    "company": "teem",
+    "code": "caputos",
+    "company": "caputos",
     "template": "work/teem.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Caputos_500x500_mhcp5t.jpg",
@@ -72,9 +72,9 @@
     }
   },
   {
-    "code": "teem",
-    "company": "teem",
-    "template": "work/teem.html",
+    "code": "cloudflare",
+    "company": "cloudflare",
+    "template": "work/cloudflare.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Cloudflare_500x500_dxcedk.jpg",
       "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
