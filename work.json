@@ -51,21 +51,21 @@
     }
   },
   {
-    "code": "centurylink",
-    "company": "centurylink",
-    "template": "work/centurylink.html",
-    "card": {
-      "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/CTL_500x500_qtizil.jpg",
-      "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
-      "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
-    }
-  },
-  {
     "code": "caputos",
     "company": "caputos",
     "template": "work/teem.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Caputos_500x500_mhcp5t.jpg",
+      "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
+      "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
+    }
+  },
+  {
+    "code": "centurylink",
+    "company": "centurylink",
+    "template": "work/centurylink.html",
+    "card": {
+      "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/CTL_500x500_qtizil.jpg",
       "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
       "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
     }
