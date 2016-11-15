@@ -15,7 +15,7 @@
     "company": "fireeye",
     "template": "work/fireeye.html",
     "card": {
-      "background": "http://res.cloudinary.com/conravent/image/upload/v1479250402/FireEye_500x500_gdfpqr.jpg",
+      "background": "http://res.cloudinary.com/conravent/image/upload/v1479250402/work-card/FireEye_500x500_gdfpqr.jpg",
       "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
       "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
     }
