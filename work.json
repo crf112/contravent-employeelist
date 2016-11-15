@@ -5,7 +5,7 @@
     "template": "work/blackfeather.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1478269238/work-card/BlackFeather_500x500_ktvdb2.jpg",
-      "logo": "website/clients/blackfeather.svg",
+      "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235691/blackfeather/whitelogo_szy2un.png",
       "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
     }
   },
@@ -15,7 +15,7 @@
     "template": "work/teem.html",
     "card": {
       "background": "http://res.cloudinary.com/conravent/image/upload/v1478269238/work-card/Teem_500x500_gitioi.jpg",
-      "logo": "website/clients/teem.svg",
+      "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
       "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
     }
   }
