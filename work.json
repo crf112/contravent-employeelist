@@ -1,52 +1,21 @@
 {
   "workcard": [
-
-    {
-      "code": "teem",
-      "company": "teem",
-      "template": "work/teem.html",
-      "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Teem_500x500_xaakyg.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
-        "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
-      }
-    },
-    {
-      "code": "fireeye",
-      "company": "fireeye",
-      "template": "work/fireeye.html",
-      "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/v1479250402/work-card/FireEye_500x500_gdfpqr.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
-        "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
-      }
-    },
     {
       "code": "blackfeather",
       "company": "BlackFeather",
       "template": "work/blackfeather.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/BlackFeather_500x500_wtfwcv.jpg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/BlackFeather_500x500_wtfwcv.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235691/blackfeather/whitelogo_szy2un.png",
         "description": "<div class='heading'>Rebrand:</div><ul><li>Website design and development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
       }
     },
     {
-      "code": "weave",
-      "company": "weave",
-      "template": "work/weave.html",
+      "code": "teem",
+      "company": "teem",
+      "template": "work/teem.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/WEAVE_500x500_jndsgy.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
-        "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
-      }
-    },
-    {
-      "code": "kenandy",
-      "company": "kenandy",
-      "template": "work/kenandy.html",
-      "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/v1479249538/work-card/Kenandy_500x500_epvxl2.jpg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/Teem_500x500_xaakyg.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
         "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
       }
@@ -56,9 +25,19 @@
       "company": "caputos",
       "template": "work/teem.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Caputos_500x500_mhcp5t.jpg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/Caputos_500x500_mhcp5t.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
-        "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
+        "description": "<div class='heading'>Rebrand:</div><ul><li>Creative direction</li><li>Photo Shoot</li><li>Website design</li></ul>"
+      }
+    },
+    {
+      "code": "weave",
+      "company": "weave",
+      "template": "work/weave.html",
+      "card": {
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/WEAVE_500x500_jndsgy.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
+        "description": "<div class='heading'>Rebrand:</div><ul><li>Website redesign</li><li>Branding</li><li>Advertising</li><li>Tradeshow booth</li><li>Brand guidelines</li></ul>"
       }
     },
     {
@@ -66,9 +45,29 @@
       "company": "centurylink",
       "template": "work/centurylink.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/CTL_500x500_qtizil.jpg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/CTL_500x500_qtizil.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
         "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
+      }
+    },
+    {
+      "code": "fireeye",
+      "company": "fireeye",
+      "template": "work/fireeye.html",
+      "card": {
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479250402/work-card/FireEye_500x500_gdfpqr.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
+        "description": "<ul><li>Website redesign</li><li>Photo refresh</li><li>Brand video</li></ul>"
+      }
+    },
+    {
+      "code": "kenandy",
+      "company": "kenandy",
+      "template": "work/kenandy.html",
+      "card": {
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249538/work-card/Kenandy_500x500_epvxl2.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
+        "description": "<div class='heading'>Branding:</div><ul><li>Website design</li><li>Tradeshow experience</li></ul>"
       }
     },
     {
@@ -76,9 +75,9 @@
       "company": "cloudflare",
       "template": "work/cloudflare.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/v1479249537/work-card/Cloudflare_500x500_dxcedk.jpg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/Cloudflare_500x500_dxcedk.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
-        "description": "<div class='heading'>Branding:</div><ul><li>Website redesign</li><li>Logo redesign</li><li>Color palette</li><li>Brand guidelines</li></ul>"
+        "description": "><ul><li>Website redesign</li><li>Website redesign</li><li>Brand video</li><li>Logo redesign</li><li>Color palette</li></ul>"
       }
     }
 
