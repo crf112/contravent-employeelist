@@ -2,43 +2,43 @@
   {
     "index": 0,
     "section": "homeHeroBody",
-    "image": "website/rightNav/home.svg",
+    "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/header_etcgua.jpg",
     "title": "home"
   },
   {
     "index": 1,
-    "section": "storySectionBody",
-    "image": "website/rightNav/story.svg",
-    "title": "story"
+    "section": "homeWorkBody",
+    "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/the_work_vnt22p.jpg",
+    "title": "work"
   },
   {
     "index": 2,
-    "section": "employeeSectionBody",
-    "image": "website/rightNav/people.svg",
-    "title": "people"
+    "section": "labsSectionBody",
+    "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/c-labs_la9p0h.jpg",
+    "title": "labs"
   },
   {
     "index": 3,
-    "section": "workSectionBody",
-    "image": "website/rightNav/work.svg",
-    "title": "work"
+    "section": "employeeSectionBody",
+    "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/people_q9nkhm.jpg",
+    "title": "people"
   },
   {
     "index": 4,
     "section": "careersSectionBody",
-    "image": "website/rightNav/careers.svg",
+    "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/careers_m0jmmh.jpg",
     "title": "careers"
   },
   {
     "index": 5,
     "section": "contactusSectionBody",
-    "image": "website/rightNav/contactus.svg",
+    "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/contact_ktdcdo.jpg",
     "title": "contact us"
   },
   {
     "index": 6,
     "section": "locationSectionBody",
-    "image": "website/rightNav/locations.svg",
-    "title": "Home"
+    "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/locations_r4ydp7.jpg",
+    "title": "location"
   }
 ]
