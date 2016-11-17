@@ -26,7 +26,7 @@
       "template": "work/teem.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/Caputos_500x500_mhcp5t.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479408981/caputos/caputos-logo-2_te8l0o.svg",
         "description": "<div class='heading'>Rebrand:</div><ul><li>Creative direction</li><li>Photo Shoot</li><li>Website design</li></ul>"
       }
     },
@@ -36,7 +36,7 @@
       "template": "work/weave.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/WEAVE_500x500_jndsgy.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479408980/weave/Weave__logo_lp6you.svg",
         "description": "<div class='heading'>Rebrand:</div><ul><li>Website redesign</li><li>Branding</li><li>Advertising</li><li>Tradeshow booth</li><li>Brand guidelines</li></ul>"
       }
     },
@@ -56,7 +56,7 @@
       "template": "work/fireeye.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479250402/work-card/FireEye_500x500_gdfpqr.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479408980/fireeye/fireeye-top-logo_eswe5c.svg",
         "description": "<ul><li>Website redesign</li><li>Photo refresh</li><li>Brand video</li></ul>"
       }
     },
@@ -76,7 +76,7 @@
       "template": "work/cloudflare.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/Cloudflare_500x500_dxcedk.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479235607/teem/Teem-logo_qbmh8p.svg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479408980/cloudflare/cloudflare-logo_c6eoyg.svg",
         "description": "><ul><li>Website redesign</li><li>Website redesign</li><li>Brand video</li><li>Logo redesign</li><li>Color palette</li></ul>"
       }
     }
