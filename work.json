@@ -77,10 +77,9 @@
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_500/v1479249537/work-card/Cloudflare_500x500_dxcedk.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1479408980/cloudflare/cloudflare-logo_c6eoyg.svg",
-        "description": "><ul><li>Website redesign</li><li>Website redesign</li><li>Brand video</li><li>Logo redesign</li><li>Color palette</li></ul>"
+        "description": "<ul><li>Website redesign</li><li>Website redesign</li><li>Brand video</li><li>Logo redesign</li><li>Color palette</li></ul>"
       }
     }
-
   ],
   "clientcard": [
     {"id": 2,"company": "Vidgo","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188017/clients/vidgo_orvwej.svg"},
@@ -95,8 +94,6 @@
     {"id": 10,"company": "CFA Institute","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/cfa_opypfe.svg"},
     {"id": 11,"company": "Altus Group","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/altus_j0qo8s.svg"},
     {"id": 1,"company": "Nitro Circus","logo": "http://res.cloudinary.com/conravent/image/upload/v1478199464/clients/nitro_circus_ivqcmz.svg"}
-
-
   ]
 }
 
