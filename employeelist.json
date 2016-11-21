@@ -390,6 +390,36 @@
     ]
   },
   {
+    "about": "Indie film enthusiast, typography nerd, breakfast burrito connoisseur",
+    "id": 18,
+    "title": "UX Designer",
+    "name": "Fiona Foster",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/fiona-foster_gi5ckz.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/fiona-foster_zsquwx.jpg",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/fionamfoster",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Lover of last minute road trips"
+      },
+      {
+        "id": 2,
+        "body": "Yoga enthusiast and avid hiker"
+      },
+      {
+        "id": 3,
+        "body": "Arizona native and self-proclaimed tortilla expert"
+      }
+    ]
+  },
+  {
     "about": "Defender of pit bulls, boeuf bourguignon chef extraordinaire, skilled pfifferlingen hunter, Brown Coat.",
     "id": 21,
     "title": "Production Designer",
