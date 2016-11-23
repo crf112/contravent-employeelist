@@ -125,7 +125,7 @@
     "title": "Senior Designer",
     "name": "Raisa Kuddus",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/raisa-kuddus_kydaz0.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/mandy-booth_pfasiu.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/raisa-kuddus_hf4trx.jpg",
     "socialmedia": [
       {
@@ -365,7 +365,7 @@
     "title": "Group Program Director",
     "name": "Deedee Olsen",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1479848472/headshot/Contravent_Head_Shots-Deedee-Olsen_ebugmg.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/deedee-olsen_bctygf.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/deedee-olsen_hlng7y.jpg",
     "socialmedia": [
       {
@@ -386,36 +386,6 @@
       {
         "id": 3,
         "body": "Will work for chocolate"
-      }
-    ]
-  },
-  {
-    "about": "Indie film enthusiast, typography nerd, breakfast burrito connoisseur",
-    "id": 18,
-    "title": "UX Designer",
-    "name": "Fiona Foster",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/fiona-foster_gi5ckz.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/fiona-foster_zsquwx.jpg",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/fionamfoster",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Lover of last minute road trips"
-      },
-      {
-        "id": 2,
-        "body": "Yoga enthusiast and avid hiker"
-      },
-      {
-        "id": 3,
-        "body": "Arizona native and self-proclaimed tortilla expert"
       }
     ]
   },
@@ -725,8 +695,8 @@
     "title": "CEO",
     "name": "Scott Kempema",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/scott-kempema_gvigr5.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/scott-kempema_y4bb22.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/scott-kempema_y4bb22.jpg",
+    "expression": "\n\n\n\n\n\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545}\nspan.s1 {text-decoration: underline}\n\n\n\n\nhttp://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/scott-kempema_gvigr5.jpg",
     "socialmedia": [
       {
         "title": "Linkedin",
@@ -785,7 +755,7 @@
     "title": "VP, Creative Services",
     "name": "Robyn Erkelens",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1479848472/headshot/Contravent-Head-Shots-Robyn-Erkelens_db7tzm.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185030/headshot/robyn-erkelens_asq3zw.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184851/expression/robyn-erkelens_wf3vqc.jpg",
     "socialmedia": [
       {
@@ -815,7 +785,7 @@
     "title": "Senior Developer",
     "name": "Jake Astle",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1479848472/headshot/Contravent_Head_Shots-Jake_Astle_rk7ykx.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185029/headshot/jake-astle_km0qzf.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/jake-astle_fjwvkk.jpg",
     "socialmedia": [
       {
@@ -990,7 +960,7 @@
     ]
   },
   {
-    "about": "Founder and executive producer of Nitro Circus, and in his spare time, he\nfounded an agency and started a whiskey brand.",
+    "about": "Founder and executive producer of Nitro Circus, and in his spare time, he founded an agency and started a whiskey brand.",
     "id": 48,
     "title": "Executive Producer",
     "name": "Jeremy Rawle",
@@ -1025,8 +995,8 @@
     "title": "Group Managing Director",
     "name": "Brett Tippetts",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/bozo_expression_mcber1.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/emily-clare_r6chku.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
     "socialmedia": [
       {
         "title": "Linkedin",
@@ -1115,8 +1085,8 @@
     "title": "Chief Growth Officer",
     "name": "Jake Osborne",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/bozo_expression_mcber1.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/emily-clare_r6chku.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
     "socialmedia": [
       {
         "title": "Linkedin",
@@ -1140,37 +1110,7 @@
     ]
   },
   {
-    "about": "Mandy Reid put off her promising career as a lion tamer to come to work for us, though she still insists on coming to work everyday in her lion tamer outfit.",
-    "id": 53,
-    "title": "Accounting",
-    "name": "Mandy Reid",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184849/expression/bozo_expression_mcber1.jpg",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/mandy-reid-76b7bb25",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "She was a child star on Korean television"
-      },
-      {
-        "id": 2,
-        "body": "Her favorite animal is trout"
-      },
-      {
-        "id": 3,
-        "body": "Her middle name is trout"
-      }
-    ]
-  },
-  {
-    "about": "Rilee Buttars is former Navy Seal and chef who also holds the record for the longest haiku ever written.",
+    "about": "Former Navy Seal and chef who also holds the record for the longest haiku ever written.",
     "id": 54,
     "title": "Project Manager",
     "name": "Rilee Buttars",
@@ -1230,7 +1170,7 @@
     ]
   },
   {
-    "about": "Ping Pong Slayer, Bald is the New Black, Sirius Black",
+    "about": "Working with Phil is like walking in a meadow at dusk. He is beautiful and has pretty colors and smells like the promise of tomorrow.",
     "id": 56,
     "title": "Creative Director",
     "name": "Phil Hunter",
@@ -1277,15 +1217,45 @@
     "bullets": [
       {
         "id": 1,
-        "body": "Voice has been heard on Utah's airwaves for over 200 hours of live FM radio"
+        "body": "Guest-appeared in an episode of COPS"
       },
       {
         "id": 2,
-        "body": "Carl Speckler and Ty Webb admirer, Magnum PI Rememberer, Fletch"
+        "body": "Can not do truffle-shuffle, loves Astoria, Oregon"
       },
       {
         "id": 3,
         "body": "Uses a Flowbee to cut his own hair, often during meetings"
+      }
+    ]
+  },
+  {
+    "about": "Speaks British-English fluently, dreams in code but not like the Matrix, Matt Damon look-a-like, lived in Boston England for 15 years.",
+    "id": 58,
+    "title": "AEM Author",
+    "name": "Jared Shami",
+    "team": "engage",
+    "headshot": "",
+    "expression": "",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/jared-shami-84a84025",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Could live on cereal forever"
+      },
+      {
+        "id": 2,
+        "body": "Appeared in a TV Movie on USA Network"
+      },
+      {
+        "id": 3,
+        "body": "Sported a MacGyver mullet as a child"
       }
     ]
   }
