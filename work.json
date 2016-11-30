@@ -46,7 +46,7 @@
       "template": "work/centurylink.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/CenturyLink_rlmgmu.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1480524876/ctl-business-logo_gfsltm.svg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/v1480543556/ctl-logo-white_rijcy5.svg",
         "description": "<div class='heading'>Branding:</div><ul><li>Digital strategy</li><li>Website design</li><li>Website development</li<li>Pattern library</li><li>Campaign strategy and execution</li><li>Partner Program development</li></ul><div class='casestudy-soon'>Case Study coming soon...</div>"
       }
     },
@@ -86,12 +86,14 @@
     {"id": 3,"company": "SalesForce","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/sales-force_oivax7.svg"},
     {"id": 4,"company": "G2","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/g2_vahwle.svg"},
     {"id": 12,"company": "Desert Ridge","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/desert-ridge_vpgblr.svg"},
+    {"id": 5,"company": "Mulesoft","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/mulesoft_gcbatc.svg"},
     {"id": 6,"company": "Utah Pride","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188017/clients/pride_hshqq1.svg"},
     {"id": 7,"company": "Cocoon","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/cocoon_lz7awx.svg"},
     {"id": 8,"company": "Skill Survey","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/skill-survey_qftzot.svg"},
     {"id": 1,"company": "CoStar Group","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/costar_lkn8hh.svg"},
     {"id": 10,"company": "CFA Institute","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/cfa_opypfe.svg"},
-    {"id": 11,"company": "Altus Group","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/altus_j0qo8s.svg"}
+    {"id": 11,"company": "Altus Group","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/altus_j0qo8s.svg"},
+    {"id": 1,"company": "Nitro Circus","logo": "http://res.cloudinary.com/conravent/image/upload/v1478199464/clients/nitro_circus_ivqcmz.svg"}
   ]
 }
 
