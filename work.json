@@ -46,7 +46,7 @@
       "template": "work/centurylink.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/CenturyLink_rlmgmu.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1479923579/ctl_yaql34.svg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/v1480524876/ctl-business-logo_gfsltm.svg",
         "description": "<div class='heading'>Branding:</div><ul><li>Digital strategy</li><li>Website design</li><li>Website development</li<li>Pattern library</li><li>Campaign strategy and execution</li><li>Partner Program development</li></ul><div class='casestudy-soon'>Case Study coming soon...</div>"
       }
     },
