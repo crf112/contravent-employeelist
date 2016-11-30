@@ -13,15 +13,15 @@
   },
   {
     "index": 2,
-    "section": "labsSectionBody",
-    "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/c-labs_la9p0h.jpg",
-    "title": "labs"
-  },
-  {
-    "index": 3,
     "section": "employeeSectionBody",
     "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/people_q9nkhm.jpg",
     "title": "people"
+  },
+  {
+    "index": 3,
+    "section": "labsSectionBody",
+    "image": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_100/v1479316731/menu/c-labs_la9p0h.jpg",
+    "title": "labs"
   },
   {
     "index": 4,
