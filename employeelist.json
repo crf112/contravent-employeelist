@@ -600,36 +600,6 @@
     ]
   },
   {
-    "about": "Hockey player, Geek, Race car driver, and he looks like too many celebrities.",
-    "id": 29,
-    "title": "Technical Project Manager",
-    "name": "John Miranda",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480530817/headshot/John_Miranda_rcnkn2.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/v1478184850/expression/john-miranda_mnos7p.jpg",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/john-miranda",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "My sons, family, and friends are everything!"
-      },
-      {
-        "id": 2,
-        "body": "Love being a Techie!"
-      },
-      {
-        "id": 3,
-        "body": "Can’t ever have too much fun! Life is short, Joke daily!"
-      }
-    ]
-  },
-  {
     "about": "Gotta keep travelin, golfer, snow boarder, Audi enthusiast, consummate builder",
     "id": 30,
     "title": "Managing Partner",
