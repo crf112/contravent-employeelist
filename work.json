@@ -83,18 +83,18 @@
     }
   ],
   "clientcard": [
-    {"id": 11,"company": "Altus Group","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/altus_j0qo8s.svg"},
-    {"id": 1,"company": "Atlassian","logo": "http://res.cloudinary.com/conravent/image/upload/v1480620349/clients/atlassian-14_otfeex.svg"},
-    {"id": 5,"company": "Cascadia","logo": "http://res.cloudinary.com/conravent/image/upload/v1480620349/clients/cascadia-13_ufugrp.svg"},
-    {"id": 10,"company": "CFA Institute","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/cfa_opypfe.svg"},
-    {"id": 7,"company": "Cocoon","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/cocoon_lz7awx.svg"},
-    {"id": 1,"company": "CoStar Group","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/costar_lkn8hh.svg"},
-    {"id": 12,"company": "Desert Ridge","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/desert-ridge_vpgblr.svg"},
-    {"id": 4,"company": "G2","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/g2_vahwle.svg"},
-    {"id": 3,"company": "SalesForce","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/sales-force_oivax7.svg"},
-    {"id": 8,"company": "Skill Survey","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/skill-survey_qftzot.svg"},
-    {"id": 6,"company": "Utah Pride","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188017/clients/pride_hshqq1.svg"},
-    {"id": 2,"company": "Vidgo","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188017/clients/vidgo_orvwej.svg"}
+    {"id": 11,"company": "Altus Group","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/altus_j0qo8s.svg"},
+    {"id": 1,"company": "Atlassian","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1480620349/clients/atlassian-14_otfeex.svg"},
+    {"id": 5,"company": "Cascadia","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1480620349/clients/cascadia-13_ufugrp.svg"},
+    {"id": 10,"company": "CFA Institute","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/cfa_opypfe.svg"},
+    {"id": 7,"company": "Cocoon","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/cocoon_lz7awx.svg"},
+    {"id": 1,"company": "CoStar Group","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/costar_lkn8hh.svg"},
+    {"id": 12,"company": "Desert Ridge","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/desert-ridge_vpgblr.svg"},
+    {"id": 4,"company": "G2","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/g2_vahwle.svg"},
+    {"id": 3,"company": "SalesForce","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/sales-force_oivax7.svg"},
+    {"id": 8,"company": "Skill Survey","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/skill-survey_qftzot.svg"},
+    {"id": 6,"company": "Utah Pride","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188017/clients/pride_hshqq1.svg"},
+    {"id": 2,"company": "Vidgo","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188017/clients/vidgo_orvwej.svg"}
   ]
 }
 
