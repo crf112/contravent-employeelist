@@ -54,7 +54,7 @@
     {
       "code": "fireeye",
       "company": "fireeye",
-      "template": "work/fireeye.htl",
+      "template": "work/fireeye.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/FireEye_800x800_bsr8hl.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1480606381/client-logs/fireeye_n3zxrm.svg",
