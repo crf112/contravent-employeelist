@@ -1228,35 +1228,5 @@
         "body": "Sported a MacGyver mullet as a child"
       }
     ]
-  },
-  {
-    "about": "Speaks British-English fluently, dreams in code but not like the Matrix, Matt Damon look-a-like, lived in Boston England for 15 years.",
-    "id": 58,
-    "title": "Developer",
-    "name": "Jared Shami",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480530816/headshot/Jared_Shami_iyemfk.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1479943399/20160314_Contravent_Headshots273_qw2s3m.jpg",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/jared-shami-84a84025",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Could live on cereal forever"
-      },
-      {
-        "id": 2,
-        "body": "Appeared in a TV Movie on USA Network"
-      },
-      {
-        "id": 3,
-        "body": "Sported a MacGyver mullet as a child"
-      }
-    ]
   }
 ]
