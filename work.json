@@ -24,22 +24,22 @@
     {
       "code": "cloudflare",
       "company": "cloudflare",
-      "template": "",
+      "template": "work/cloudflare.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/Cloudflare_800x800_ibjxcy.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1480606381/client-logs/cloudflare_oqgczf.svg",
-        "description": "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Brand Video</li><li>Logo Redesign</li><li>Style Guide</li></ul><div class='casestudy-soon'>Case Study coming soon...</div>"
+        "description": "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Brand Video</li><li>Logo Redesign</li><li>Style Guide</li></ul>"
       }
     }
     ,
     {
       "code": "weave",
       "company": "weave",
-      "template": "",
+      "template": "work/weave.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/Weave_800x800_tdguva.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1480606382/client-logs/weave_ueavol.svg",
-        "description": "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Branding</li><li>Advertising</li><li>Trade Show Booth</li><li>Brand Guidelines</li></ul><div class='casestudy-soon'>Case Study coming soon...</div>"
+        "description": "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Branding</li><li>Advertising</li><li>Trade Show Booth</li><li>Brand Guidelines</li></ul>"
       }
     },
     {
