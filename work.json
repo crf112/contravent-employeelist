@@ -45,11 +45,11 @@
     {
       "code": "centurylink",
       "company": "centurylink",
-      "template": "",
+      "template": "work/centurylink.html",
       "card": {
         "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/CenturyLink_rlmgmu.jpg",
         "logo": "http://res.cloudinary.com/conravent/image/upload/v1480606381/client-logs/centurylink_dlzltl.svg",
-        "description": "<div class='heading'>Branding:</div><ul><li>Digital Strategy</li><li>Website design</li><li>Website Development</li<li>Pattern Library</li><li>Campaign Strategy and Execution</li><li>Partner Program Development</li></ul><div class='casestudy-soon'>Case Study coming soon...</div>"
+        "description": "<div class='heading'>Branding:</div><ul><li>Digital Strategy</li><li>Website design</li><li>Website Development</li<li>Pattern Library</li><li>Campaign Strategy and Execution</li><li>Partner Program Development</li></ul>"
       }
     },
     {
