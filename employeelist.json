@@ -125,7 +125,7 @@
     "title": "Senior Designer",
     "name": "Raisa Kuddus",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480530819/headshot/Raisa_Kuddus_oovxfn.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965853/Raisa_Kuddus_yvq8jo.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412100/Raisa_Kuddus_u39s9n.png",
     "socialmedia": [
       {
@@ -395,8 +395,8 @@
     "title": "Production Designer",
     "name": "Elisha Frey",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480530816/headshot/Elisha_Frey_tulecb.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412093/Elisha_Frey_c71uue.png",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965666/Elisha_Frey_ndmeq7.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485965717/Elisha_Frey_wqgwdt.png",
     "socialmedia": [
       {
         "title": "Linkedin",
@@ -422,10 +422,10 @@
   {
     "about": "Lover of the good fight, slayer of dragons, wear-it-on-your-sleeve romantic, devils advocate, and terrible poker player.",
     "id": 22,
-    "title": "Managing Director",
+    "title": "Group Account Director",
     "name": "Steve Rutherford",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480530820/headshot/Steve_mtlphc.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965928/Steve_Rutherford_rkvz9z.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412101/Steve_Rutherford_w0lk6m.png",
     "socialmedia": [
       {
@@ -575,7 +575,7 @@
     "title": "Managing Partner",
     "name": "Ash Evans",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480610315/headshot/Ash_Evans_mgnwrl.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965549/Ash_evans_2017_vbldrm.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412089/Ash_Evans_g4uwax.png",
     "socialmedia": [
       {
@@ -815,7 +815,7 @@
     "title": "COO",
     "name": "Julie Simmons",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480530818/headshot/Julie_Simmons_ajnus8.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965781/Julie_Simmons_1_ztapvk.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412098/Julie_Simmons_yulbvm.png",
     "socialmedia": [
       {
@@ -935,8 +935,8 @@
     "title": "Group Managing Director",
     "name": "Brett Tippetts",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480609984/headshot/Bozo_fbhgxk.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/v1485412093/Brett_Tippetts_wonm0t.png",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965467/Brett_Tippetts_qw4z6y.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412093/Brett_Tippetts_wonm0t.png",
     "socialmedia": [
       {
         "title": "Linkedin",
@@ -1085,7 +1085,7 @@
     "title": "Strategy Director",
     "name": "Dan Fletcher",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480530815/headshot/Dan_Fletcher_muycaf.jpg",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965635/Dan_Fletcher_zgdbx8.jpg",
     "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412090/Dan_Fletcher_wk9gmx.png",
     "socialmedia": [
       {
@@ -1196,6 +1196,246 @@
       {
         "id": 3,
         "body": "Sported a MacGyver mullet as a child"
+      }
+    ]
+  },
+  {
+    "about": "Matt brings his life-long love of puzzles to the office every day when he completes 1 rubiks cube (minimum) with one hand per meeting.",
+    "id": 59,
+    "title": "Founder",
+    "name": "Matt Seegmiller",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965389/Matt_Seegmiller_nvjfct.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412099/Matt_Seegmiller_fiaodd.png",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/company/contravent-media",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Traditionally thinks highly of traditions"
+      },
+      {
+        "id": 2,
+        "body": "Makes tacos, not on Tuesdays"
+      },
+      {
+        "id": 3,
+        "body": "Finds time to make time"
+      }
+    ]
+  },
+  {
+    "about": "Loves scuba diving and all cities",
+    "id": 60,
+    "title": "Managing Director",
+    "name": "Cyd Tetro",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/cydnitetro/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Loves indoor sports"
+      },
+      {
+        "id": 2,
+        "body": "Enjoys cold weather"
+      },
+      {
+        "id": 3,
+        "body": "Can usually be found outside"
+      }
+    ]
+  },
+  {
+    "about": "Adryan loves the snow, the mountains, ALL of the animals, fiction, workback schedules, and creating all types of content, content, content.",
+    "id": 61,
+    "title": "Project Manager",
+    "name": "Adryan Ritter",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965305/Adryan_Ritter_sqwig8.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485965305/Adryan_Ritter_znryas.png",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/adryanroaneritter/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Dog's name is Rocky"
+      },
+      {
+        "id": 2,
+        "body": "Loves 'The Eye of the Tiger'"
+      },
+      {
+        "id": 3,
+        "body": "Yo Adryan!"
+      }
+    ]
+  },
+  {
+    "about": "Folk rock music junkie, retired bus driver, family man, skier/snowboarder, wannabe lumberjack.",
+    "id": 62,
+    "title": "Digital Strategist",
+    "name": "Scott Webb",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965244/Scott_Webb_luheb3.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412100/Scott_Webb_epx3km.png",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/scottlewiswebb/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Climbs rocks for fun"
+      },
+      {
+        "id": 2,
+        "body": "Crotched a 10x10 blanket"
+      },
+      {
+        "id": 3,
+        "body": "Eats tacos"
+      }
+    ]
+  },
+  {
+    "about": "Bears.<br>Beats.<br>Battlestar Galactica.",
+    "id": 63,
+    "title": "Developer",
+    "name": "Shan Miller",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485965192/Shan_Miller_ogbufj.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485412101/Shan_Miller_vt1xrh.png",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/shanm19/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Knows most of the lyrics to Bruno Mars’ ‘Uptown Funk’"
+      },
+      {
+        "id": 2,
+        "body": "Is pretty sure he can get the ring to Mordor faster than that dip, Frodo Baggins"
+      },
+      {
+        "id": 3,
+        "body": "Once threw a bottle at a swan, the swan then attacked his niece Rebecca"
+      }
+    ]
+  },
+  {
+    "about": "Ali's thoughts travel to far off destinations so they may have a chance of finding a place where they’re far more suited than here ",
+    "id": 64,
+    "title": "Project Manager",
+    "name": "Ali Reighard",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/company/contravent-media",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Shreds Snowbird on the reg"
+      },
+      {
+        "id": 2,
+        "body": "Flies like a butterfly, stings like a bee"
+      },
+      {
+        "id": 3,
+        "body": "Tourer of places"
+      }
+    ]
+  },
+  {
+    "about": "Wendy likes things that are things with and without other things",
+    "id": 65,
+    "title": "Group Account Director",
+    "name": "Wendy Garrison",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/wendy-garrison-82715451/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Sometimes loves listening to the radio always."
+      },
+      {
+        "id": 2,
+        "body": "Usually doesn't play paper, in a game of rock-paper-scissors. "
+      },
+      {
+        "id": 3,
+        "body": "Enjoys a glass of fresh ice-water"
+      }
+    ]
+  },
+  {
+    "about": "Annie is a native of where she was born and loves travelling back home sometimes.",
+    "id": 66,
+    "title": "Group Account Director",
+    "name": "Annie Ireland",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275/v1485964862/headshot/Annie_Ireland_llrllz.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300/v1485964862/expression/Annie_Ireland_slz4tp.png",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "http://www.linkedin.com/in/annieireland/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Sometimes goes on staycation"
+      },
+      {
+        "id": 2,
+        "body": "Enjoys snowshoeing to the office especially in summer months"
+      },
+      {
+        "id": 3,
+        "body": "Proposed a cross-country skiing lane on Interstate 15 to congress"
       }
     ]
   }
