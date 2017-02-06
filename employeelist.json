@@ -1380,7 +1380,7 @@
     ]
   },
   {
-    "about": "Wendy likes things that are things with and without other things",
+    "about": "Started out as an agency Strategist. Got wise and became a client-side Strategist. Then got really wise and became a Contravent Strategist.",
     "id": 65,
     "title": "Group Account Director",
     "name": "Wendy Garrison",
@@ -1390,22 +1390,22 @@
     "socialmedia": [
       {
         "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/wendy-garrison-82715451/",
+        "url": "http://www.linkedin.com/company/contravent-media",
         "icon": "icon-linkedin"
       }
     ],
     "bullets": [
       {
         "id": 1,
-        "body": "Sometimes loves listening to the radio always."
+        "body": "Hugger"
       },
       {
         "id": 2,
-        "body": "Usually doesn't play paper, in a game of rock-paper-scissors. "
+        "body": "The baby ate my cancer"
       },
       {
         "id": 3,
-        "body": "Enjoys a glass of fresh ice-water"
+        "body": "Speaks Boston fluently"
       }
     ]
   },
