@@ -6,8 +6,8 @@
       "company": "BlackFeather",
       "template": "work/blackfeather.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943033/work-card/BlackFeather_800x800_umdqna.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1485964652/case-studies-logos-blackfeather_tt2p2y.svg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943033/work-card/BlackFeather_800x800_umdqna.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485964652/case-studies-logos-blackfeather_tt2p2y.svg",
         "description": "<div class='heading'>Rebrand:</div><ul><li>Website design</li><li>Website Development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
       }
     },
@@ -16,8 +16,8 @@
       "company": "teem",
       "template": "work/teem.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/Teem_800x800_piwxs2.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1485411616/case-studies-logos-teem_uou56d.svg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Teem_800x800_piwxs2.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-teem_uou56d.svg",
         "description": "<div class='heading'>Branding:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Logo Redesign</li><li>Color palette</li><li>Brand Guidelines</li></ul>"
       }
     },
@@ -26,8 +26,8 @@
       "company": "cloudflare",
       "template": "work/cloudflare.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/Cloudflare_800x800_ibjxcy.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1485411616/case-studies-logos-cloudflare_ruwdb0.svg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Cloudflare_800x800_ibjxcy.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-cloudflare_ruwdb0.svg",
         "description": "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Brand Video</li><li>Logo Redesign</li><li>Style Guide</li></ul>"
       }
     }
@@ -37,8 +37,8 @@
       "company": "weave",
       "template": "work/weave.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/Weave_800x800_tdguva.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1485411616/case-studies-logos-weave_a9zeim.svg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Weave_800x800_tdguva.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-weave_a9zeim.svg",
         "description": "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Branding</li><li>Advertising</li><li>Trade Show Booth</li><li>Brand Guidelines</li></ul>"
       }
     },
@@ -47,8 +47,8 @@
       "company": "centurylink",
       "template": "work/centurylink.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/CenturyLink_rlmgmu.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1485411616/case-studies-logos-centurylink_roxfwy.svg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/CenturyLink_rlmgmu.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-centurylink_roxfwy.svg",
         "description": "<div class='heading'>Branding:</div><ul><li>Digital Strategy</li><li>Website design</li><li>Website Development</li<li>Pattern Library</li><li>Campaign Strategy and Execution</li><li>Partner Program Development</li></ul>"
       }
     },
@@ -57,8 +57,8 @@
       "company": "fireeye",
       "template": "work/fireeye.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/FireEye_800x800_bsr8hl.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1485411616/case-studies-logos-fireeye_bbz0mh.svg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/FireEye_800x800_bsr8hl.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-fireeye_bbz0mh.svg",
         "description": "<div class='heading'>Branding:</div><ul><li>Website Redesign</li><li>Global Campaign</li><li>Web and Photography Guidelines</li><li>Brand Video</li></ul>"
       }
     },
@@ -67,8 +67,8 @@
       "company": "kenandy",
       "template": "work/kenandy.html",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/Kenandy_800x800_f8rwvy.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1485411616/case-studies-logos-kenandy_ne7ibw.svg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Kenandy_800x800_f8rwvy.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-kenandy_ne7ibw.svg",
         "description": "<div class='heading'>Branding:</div><ul><li>Website Design</li><li>Website Development</li><li>Trade Show Experience</li><li>Brand Guidelines</li></ul>"
       }
     },
@@ -77,26 +77,26 @@
       "company": "caputos",
       "template": "",
       "card": {
-        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400/v1479943034/work-card/Caputos_800x800_r8dzgn.jpg",
-        "logo": "http://res.cloudinary.com/conravent/image/upload/v1485411616/case-studies-logos-caputos_k0ibem.svg",
+        "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Caputos_800x800_r8dzgn.jpg",
+        "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-caputos_k0ibem.svg",
         "description": "<div class='heading'>Rebrand:</div><ul><li>Creative Direction</li><li>Photo Shoot</li><li>Website Design</li><li>Website Development</li></ul><div class='casestudy-soon'>Case Study coming soon...</div>"
       }
     }
     
   ],
   "clientcard": [
-    {"id": 11,"company": "Altus Group","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/altus_j0qo8s.svg"},
+    {"id": 11,"company": "Altus Group","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188016/clients/altus_j0qo8s.svg"},
     {"id": 1,"company": "Atlassian","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1480620349/clients/atlassian-14_otfeex.svg"},
     {"id": 5,"company": "Cascadia","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1480620349/clients/cascadia-13_ufugrp.svg"},
-    {"id": 10,"company": "CFA Institute","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/cfa_opypfe.svg"},
-    {"id": 7,"company": "Cocoon","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/cocoon_lz7awx.svg"},
-    {"id": 1,"company": "CoStar Group","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/costar_lkn8hh.svg"},
-    {"id": 12,"company": "Desert Ridge","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/desert-ridge_vpgblr.svg"},
-    {"id": 4,"company": "G2","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/g2_vahwle.svg"},
-    {"id": 3,"company": "SalesForce","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/sales-force_oivax7.svg"},
-    {"id": 8,"company": "Skill Survey","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188016/clients/skill-survey_qftzot.svg"},
-    {"id": 6,"company": "Utah Pride","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188017/clients/pride_hshqq1.svg"},
-    {"id": 2,"company": "Vidgo","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1478188017/clients/vidgo_orvwej.svg"}
+    {"id": 10,"company": "CFA Institute","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188016/clients/cfa_opypfe.svg"},
+    {"id": 7,"company": "Cocoon","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188016/clients/cocoon_lz7awx.svg"},
+    {"id": 1,"company": "CoStar Group","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188016/clients/costar_lkn8hh.svg"},
+    {"id": 12,"company": "Desert Ridge","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188016/clients/desert-ridge_vpgblr.svg"},
+    {"id": 4,"company": "G2","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188016/clients/g2_vahwle.svg"},
+    {"id": 3,"company": "SalesForce","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188016/clients/sales-force_oivax7.svg"},
+    {"id": 8,"company": "Skill Survey","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188016/clients/skill-survey_qftzot.svg"},
+    {"id": 6,"company": "Utah Pride","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188017/clients/pride_hshqq1.svg"},
+    {"id": 2,"company": "Vidgo","logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50,f_auto/v1478188017/clients/vidgo_orvwej.svg"}
   ]
 }
 
