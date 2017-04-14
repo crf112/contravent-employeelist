@@ -210,36 +210,6 @@
     ]
   },
   {
-    "about": "Formerly Gossip Girl. A silmarillionaire and ambiturner. Continually disappointed Joe fan. Abides.",
-    "id": 10,
-    "title": "Senior Copywriter",
-    "name": "Nate Parkinson",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480607946/headshot/Nate_Parkinson_ozla6a.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412099/Nate_Parkinson_axgq9u.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/nate-parkinson-15672524",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Number of times talents were taken to South Beach: 0"
-      },
-      {
-        "id": 2,
-        "body": "Free Solo First Ascents: 4"
-      },
-      {
-        "id": 3,
-        "body": "Favorite Pokémon: Curmudgeon"
-      }
-    ]
-  },
-  {
     "about": "Lover of country music, reading, and reality TV. Traveler. Athlete.",
     "id": 11,
     "title": "Project Manager",
@@ -296,36 +266,6 @@
       {
         "id": 3,
         "body": "5,432,223 tears of joy shed while watching hockey"
-      }
-    ]
-  },
-  {
-    "about": "Strategist, Music Junkie, Baseball Fanatic, Runner, Photography Hound, Dive Bar Enthusiast always hunting for the next.",
-    "id": 15,
-    "title": "Strategy Director",
-    "name": "Todd Ruff",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530820/headshot/Todd_Ruff_pwb7qf.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412101/Todd_Ruff_b61prw.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/toddruff",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "7,975 days parenting"
-      },
-      {
-        "id": 2,
-        "body": "227 bands seen at ACL"
-      },
-      {
-        "id": 3,
-        "body": "9.01 Running Pace 1 Double Eagle"
       }
     ]
   },
