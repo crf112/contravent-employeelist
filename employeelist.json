@@ -1,35 +1,5 @@
 [
   {
-    "about": "Grew up a military brat chasing squids and eels at 8 years old in the pacific islands. Avid mountain biker, Alaska State Motocross Champion, and once went 0 to 4 kids in 2 years.",
-    "id": 1,
-    "title": "Product Director",
-    "name": "Brian Lampright",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530815/headshot/Brian_Lampright_hel2af.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412092/Brian_Lampright_wgtdy5.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/brianlampright",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "100 miles: longest family mountain bike adventure"
-      },
-      {
-        "id": 2,
-        "body": "2000 gal of petrol per year"
-      },
-      {
-        "id": 3,
-        "body": "Offsets carbon footprint with solar power :)"
-      }
-    ]
-  },
-  {
     "about": "Compulsive organizer, lover of design, beauty and fashion, budding world traveler, mom of boys and a Labrador, and protector of elephants.",
     "id": 2,
     "title": "Group Account Director",
@@ -1076,36 +1046,6 @@
       {
         "id": 3,
         "body": "Prefers the feel of cashmere to Italians"
-      }
-    ]
-  },
-  {
-    "about": "Former dance instructor who brings his love of choreography to everything he does.",
-    "id": 57,
-    "title": "Project Manager",
-    "name": "Jared Christensen",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530816/headshot/Jared_Christensen_rd0q8f.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412093/Jared_Christensen_yu9ml4.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/bchristensen",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Guest-appeared in an episode of COPS"
-      },
-      {
-        "id": 2,
-        "body": "Cannot do truffle-shuffle, loves astoria, oregon"
-      },
-      {
-        "id": 3,
-        "body": "Uses a Flowbee to cut his own hair, often during meetings"
       }
     ]
   },
