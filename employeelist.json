@@ -1378,5 +1378,35 @@
         "body": "I’m sure at some point I’ll use the line 'When I lived in Colorado…'"
       }
     ]
+  },
+  {
+    "about": " I think, feel and do.  I think all things water are amazing (except drinking it), I feel I am a disruptive builder of 'things', and I do love Legos,
+    "id": 70,
+    "title": "Account Director",
+    "name": "Jeremy Tippetts",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/in/jeremytippetts/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "I leap from tall buildings and land face first"
+      },
+      {
+        "id": 2,
+        "body": "Boomerangs are awesome; right?"
+      },
+      {
+        "id": 3,
+        "body": "Best season of the year, football season"
+      }
+    ]
   }
 ]
