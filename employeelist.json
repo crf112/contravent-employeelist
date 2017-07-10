@@ -1348,5 +1348,35 @@
         "body": "Has a metal plate in his face which practically makes him IronMan"
       }
     ]
+  },
+  {
+    "about": "Can usually be found wandering the mountains, working to achieve the perfect yard, or making a mess in the kitchen. (Even better with an IPA)",
+    "id": 69,
+    "title": "Strategy Director – Engagement",
+    "name": "Jillian White",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/in/jillian-white-35220258/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Loves a really good Dad joke"
+      },
+      {
+        "id": 2,
+        "body": "Thinks her dog is the best thing since sliced bread"
+      },
+      {
+        "id": 3,
+        "body": "I’m sure at some point I’ll use the line 'When I lived in Colorado…'"
+      }
+    ]
   }
 ]
