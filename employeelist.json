@@ -750,36 +750,6 @@
     ]
   },
   {
-    "about": "Music nerd, puzzle person, and will refer to something as a &quot;module&quot; given the slightest opportunity.",
-    "id": 47,
-    "title": "Developer",
-    "name": "Scott Madsen",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530820/headshot/Scott_Madsen_yxsmvb.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412100/Scott_Madsen_bqb8i4.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/scott-madsen-82413157",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Favorite wireless communication is radio"
-      },
-      {
-        "id": 2,
-        "body": "Rides a snowmobile to work"
-      },
-      {
-        "id": 3,
-        "body": "My favorite pi is raspberry"
-      }
-    ]
-  },
-  {
     "about": "Founder and executive producer of Nitro Circus, and in his spare time, he founded an agency and started a whiskey brand.",
     "id": 48,
     "title": "Founder & Executive Producer",
@@ -1110,36 +1080,6 @@
     ]
   },
   {
-    "about": "Adryan loves the snow, the mountains, ALL of the animals, fiction, workback schedules, and creating all types of content, content, content.",
-    "id": 61,
-    "title": "Project Manager",
-    "name": "Adryan Ritter",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1485965305/Adryan_Ritter_sqwig8.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485965305/Adryan_Ritter_znryas.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/adryanroaneritter/",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Dog's name is Rocky"
-      },
-      {
-        "id": 2,
-        "body": "Loves 'The Eye of the Tiger'"
-      },
-      {
-        "id": 3,
-        "body": "Yo Adryan!"
-      }
-    ]
-  },
-  {
     "about": "Folk rock music junkie, retired bus driver, family man, skier/snowboarder, wannabe lumberjack.",
     "id": 62,
     "title": "Digital Strategist",
@@ -1166,36 +1106,6 @@
       {
         "id": 3,
         "body": "Eats tacos"
-      }
-    ]
-  },
-  {
-    "about": "Bears.<br>Beats.<br>Battlestar Galactica.",
-    "id": 63,
-    "title": "Developer",
-    "name": "Shan Miller",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1485965192/Shan_Miller_ogbufj.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412101/Shan_Miller_vt1xrh.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/shanm19/",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Knows most of the lyrics to Bruno Mars’ ‘Uptown Funk’"
-      },
-      {
-        "id": 2,
-        "body": "Is pretty sure he can get the ring to Mordor faster than that dip, Frodo Baggins"
-      },
-      {
-        "id": 3,
-        "body": "Once threw a bottle at a swan, the swan then attacked his niece Rebecca"
       }
     ]
   },
