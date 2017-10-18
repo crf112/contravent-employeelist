@@ -1288,5 +1288,35 @@
         "body": "Best season of the year, football season"
       }
     ]
+  },
+  {
+    "about": "Lover of chocolate milk, dreams of owning a Ferrari, likes to plant flowers, father of daughters, novice cyclist, retired clogging and ballroom dancer. (please feel free to perform surgery so it sounds better.)",
+    "id": 71,
+    "title": "Account Director",
+    "name": "Ryan Ahlstrom",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/in/ryan-ahlstrom-a32820/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Brain is 60% account service, 40% creative. Seriously, only an account guy would assign numbers to a brain."
+      },
+      {
+        "id": 2,
+        "body": "Appeared on Star Search"
+      },
+      {
+        "id": 3,
+        "body": "Can cross eyes, one at a time"
+      }
+    ]
   }
 ]
