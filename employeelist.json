@@ -1,31 +1,31 @@
 [
   {
-    "about": "Compulsive organizer, lover of design, beauty and fashion, budding world traveler, mom of boys and a Labrador, and protector of elephants.",
+    "about": "Voted ‘Best in Nursery’ 1992, Average at ball sports, Classic over-thinker, Hopeful romantic, Probably air drumming right now.",
     "id": 2,
-    "title": "Group Account Director",
-    "name": "Marina Riedel",
+    "title": "Project Manager",
+    "name": "Josiah Johnson",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530819/headshot/Marina_Riedel_zncapv.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412099/Marina_Riedel_yexl8w.png",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
     "socialmedia": [
       {
         "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/marina-riedel-10767617",
+        "url": "https://www.linkedin.com/in/josiah-johnson-31688313a/",
         "icon": "icon-linkedin"
       }
     ],
     "bullets": [
       {
         "id": 1,
-        "body": "685,481 miles flown"
+        "body": "Despite popular opinion, there is no Z in ‘Josiah’"
       },
       {
         "id": 2,
-        "body": "99+ percentile scored on every standardized test ever taken"
+        "body": "FOR NARNIA! And for the cat."
       },
       {
         "id": 3,
-        "body": "5 people in the world she completely trusts"
+        "body": "Grew a beard in an attempt to pass as a grown-up"
       }
     ]
   },
