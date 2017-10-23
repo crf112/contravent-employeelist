@@ -1348,5 +1348,35 @@
         "body": "I don’t have armpits"
       }
     ]
+  },
+  {
+    "about": "Always looking for something fun or borderline dangerous to get into, comedy nerd, ski bum at heart, and fluent in sarcasm.",
+    "id": 73,
+    "title": "Sr. Account Manager",
+    "name": "Chris Pales",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "socialmedia": [
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/in/chris-pales-4ab72016/",
+        "icon": "icon-linkedin"
+      }
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Traveled to over 35 countries"
+      },
+      {
+        "id": 2,
+        "body": "Moved to NYC without a job"
+      },
+      {
+        "id": 3,
+        "body": "Only Utah fan to rush the field after Sugar Bowl win"
+      }
+    ]
   }
 ]
