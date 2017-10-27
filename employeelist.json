@@ -1413,5 +1413,30 @@
         "body": "First concert: The Rolling Stones. Favorite concert: Daft Punk"
       }
     ]
+  },
+  {
+    "about": "He’s like if Dan Marino and Eddie Van Halen had a baby who sucked at football and guitar so he went into advertising and was then disowned. Wait…what?",
+    "id": 75,
+    "title": "Señor Copywriter",
+    "name": "BJ Beckman",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480609984/headshot/Bozo_fbhgxk.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1478185028/headshot/bozo_headshot_trg3rx.jpg",
+    "socialmedia": [
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Wants to be Boba Fett when he grows up"
+      },
+      {
+        "id": 2,
+        "body": "5,000 hours of televised sports watched per year."
+      },
+      {
+        "id": 3,
+        "body": "Favorite ThunderCat: Panthro, and it’s not even close"
+      }
+    ]
   }
 ]
