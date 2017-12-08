@@ -300,32 +300,32 @@
     ]
   },
   {
-    "about": "Lover of the good fight, slayer of dragons, wear-it-on-your-sleeve romantic, devils advocate, and terrible poker player.",
+    "about": "TBD",
     "id": 22,
-    "title": "Group Account Director",
-    "name": "Steve Rutherford",
+    "title": "Production Designer",
+    "name": "Tom Sturzenegger",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1485965928/Steve_Rutherford_rkvz9z.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412101/Steve_Rutherford_w0lk6m.png",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1512765630/headshot/Tom.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1512765684/expression/Tom.png",
     "socialmedia": [
       {
         "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/steve-rutherford-36878216",
+        "url": "https://www.linkedin.com/in/thomas-sturzenegger-5a9431a6",
         "icon": "icon-linkedin"
       }
     ],
     "bullets": [
       {
         "id": 1,
-        "body": "Photographer"
+        "body": "TBD"
       },
       {
         "id": 2,
-        "body": "Urban cowboy"
+        "body": "TBD"
       },
       {
         "id": 3,
-        "body": "Foodie wino"
+        "body": "TBD"
       }
     ]
   },
