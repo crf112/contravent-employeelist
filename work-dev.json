@@ -2,83 +2,83 @@
   "worktest": "Contravent helps brands make real progress towards their goals by creating meaningful experiences.",
   "workcard": [
     {
-            code: "blackfeather",
-            company: "BlackFeather",
-            template: "work/blackfeather.html",
-            card: {
-              background: "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943033/work-card/BlackFeather_800x800_umdqna.jpg",
-              logo: "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1500307802/Asset_4_pi7pzm.png",
-              description: "<div class='heading'>Rebrand:</div><ul><li>Website design</li><li>Website Development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
+            "code": "blackfeather",
+            "company": "BlackFeather",
+            "template": "work/blackfeather.html",
+            "card": {
+              "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943033/work-card/BlackFeather_800x800_umdqna.jpg",
+              "logo": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_50/v1500307802/Asset_4_pi7pzm.png",
+              "description": "<div class='heading'>Rebrand:</div><ul><li>Website design</li><li>Website Development</li><li>Logo</li><li>Color palette</li><li>Messaging</li></ul>"
             }
           },
           {
-            code: "forgedx",
-            company: "forgedx",
-            template: "work/forgedx.html",
-            card: {
-              background: "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_400/v1513391303/forgedx/forgedx-casestudy-preview.png",
-              logo: "http://res.cloudinary.com/conravent/image/upload/f_auto/v1513391314/forgedx/forgedx-logo-white.svg",
-              description: "<div class='heading'>DX technology showcase for leaing telecommunications company</div><ul><li>artificial intelligence</li><li>AR/VR</li><li>Rich Media</li><li>IoT & Edge Applications</li><li>Identity & Security</li></ul>"
+            "code": "forgedx",
+            "company": "forgedx",
+            "template": "work/forgedx.html",
+            "card": {
+              "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_400/v1513391303/forgedx/forgedx-casestudy-preview.png",
+              "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1513391314/forgedx/forgedx-logo-white.svg",
+              "description": "<div class='heading'>DX technology showcase for leaing telecommunications company</div><ul><li>artificial intelligence</li><li>AR/VR</li><li>Rich Media</li><li>IoT & Edge Applications</li><li>Identity & Security</li></ul>"
             }
           },
           {
-            code: "cloudflare",
-            company: "cloudflare",
-            template: "work/cloudflare.html",
-            card: {
-              background: "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Cloudflare_800x800_ibjxcy.jpg",
-              logo: "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-cloudflare_ruwdb0.svg",
-              description: "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Brand Video</li><li>Logo Redesign</li><li>Style Guide</li></ul>"
+            "code": "cloudflare",
+            "company": "cloudflare",
+            "template": "work/cloudflare.html",
+            "card": {
+              "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Cloudflare_800x800_ibjxcy.jpg",
+              "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-cloudflare_ruwdb0.svg",
+              "description": "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Brand Video</li><li>Logo Redesign</li><li>Style Guide</li></ul>"
             }
           },
           {
-            code: "weave",
-            company: "weave",
-            template: "work/weave.html",
-            card: {
-              background: "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Weave_800x800_tdguva.jpg",
-              logo: "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-weave_a9zeim.svg",
-              description: "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Branding</li><li>Advertising</li><li>Trade Show Booth</li><li>Brand Guidelines</li></ul>"
+            "code": "weave",
+            "company": "weave",
+            "template": "work/weave.html",
+            "card": {
+              "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Weave_800x800_tdguva.jpg",
+              "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-weave_a9zeim.svg",
+              "description": "<div class='heading'>Rebrand:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Branding</li><li>Advertising</li><li>Trade Show Booth</li><li>Brand Guidelines</li></ul>"
             }
           },
           {
-            code: "centurylink",
-            company: "centurylink",
-            template: "work/centurylink.html",
-            card: {
-              background: "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/CenturyLink_rlmgmu.jpg",
-              logo: "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-centurylink_roxfwy.svg",
-              description: "<div class='heading'>Branding:</div><ul><li>Digital Strategy</li><li>Website design</li><li>Website Development</li<li>Pattern Library</li><li>Campaign Strategy and Execution</li><li>Partner Program Development</li></ul>"
+            "code": "centurylink",
+            "company": "centurylink",
+            "template": "work/centurylink.html",
+            "card": {
+              "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/CenturyLink_rlmgmu.jpg",
+              "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-centurylink_roxfwy.svg",
+              "description": "<div class='heading'>Branding:</div><ul><li>Digital Strategy</li><li>Website design</li><li>Website Development</li<li>Pattern Library</li><li>Campaign Strategy and Execution</li><li>Partner Program Development</li></ul>"
             }
           },
           {
-            code: "fireeye",
-            company: "fireeye",
-            template: "work/fireeye.html",
-            card: {
-              background: "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/FireEye_800x800_bsr8hl.jpg",
-              logo: "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-fireeye_bbz0mh.svg",
-              description: "<div class='heading'>Branding:</div><ul><li>Website Redesign</li><li>Global Campaign</li><li>Web and Photography Guidelines</li><li>Brand Video</li></ul>"
+            "code": "fireeye",
+            "company": "fireeye",
+            "template": "work/fireeye.html",
+            "card": {
+              "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/FireEye_800x800_bsr8hl.jpg",
+              "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-fireeye_bbz0mh.svg",
+              "description": "<div class='heading'>Branding:</div><ul><li>Website Redesign</li><li>Global Campaign</li><li>Web and Photography Guidelines</li><li>Brand Video</li></ul>"
             }
           },
           {
-            code: "kenandy",
-            company: "kenandy",
-            template: "work/kenandy.html",
-            card: {
-              background: "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Kenandy_800x800_f8rwvy.jpg",
-              logo: "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-kenandy_ne7ibw.svg",
-              description: "<div class='heading'>Branding:</div><ul><li>Website Design</li><li>Website Development</li><li>Trade Show Experience</li><li>Brand Guidelines</li></ul>"
+            "code": "kenandy",
+            "company": "kenandy",
+            "template": "work/kenandy.html",
+            "card": {
+              "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Kenandy_800x800_f8rwvy.jpg",
+              "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-kenandy_ne7ibw.svg",
+              "description": "<div class='heading'>Branding:</div><ul><li>Website Design</li><li>Website Development</li><li>Trade Show Experience</li><li>Brand Guidelines</li></ul>"
             }
           },
           {
-            code: "teem",
-            company: "teem",
-            template: "work/teem.html",
-            card: {
-              background: "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Teem_800x800_piwxs2.jpg",
-              logo: "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-teem_uou56d.svg",
-              description: "<div class='heading'>Branding:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Logo Redesign</li><li>Color palette</li><li>Brand Guidelines</li></ul>"
+            "code": "teem",
+            "company": "teem",
+            "template": "work/teem.html",
+            "card": {
+              "background": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_400,f_auto/v1479943034/work-card/Teem_800x800_piwxs2.jpg",
+              "logo": "http://res.cloudinary.com/conravent/image/upload/f_auto/v1485411616/case-studies-logos-teem_uou56d.svg",
+              "description": "<div class='heading'>Branding:</div><ul><li>Website Redesign</li><li>Website Development</li><li>Logo Redesign</li><li>Color palette</li><li>Brand Guidelines</li></ul>"
             }
           }
     
