@@ -1200,9 +1200,9 @@
     ]
   },
   {
-    "about": "TBD About Gary",
+    "about": "Former ski and river guide who loves leading brands to thrilling new destinations.",
     "id": 68,
-    "title": "Account Manager",
+    "title": "Group Managing Director",
     "name": "Gary Brown",
     "team": "engage",
     "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_275/v1505919615/headshot/Gary-Brown.png",
@@ -1217,15 +1217,15 @@
     "bullets": [
       {
         "id": 1,
-        "body": "Bullet 1"
+        "body": "Loves summer but prefers winter"
       },
       {
         "id": 2,
-        "body": "Bullet 2"
+        "body": "Practices gardening as an exercise in applied strategy"
       },
       {
         "id": 3,
-        "body": "Bullet 3"
+        "body": "Two wheels, one word: Ducati"
       }
     ]
   },
