@@ -1200,32 +1200,32 @@
     ]
   },
   {
-    "about": "Minimalist who loves gadgets, master list-maker, hates long drives but wants to drive his own vehicle around the world.",
+    "about": "TBD About Gary",
     "id": 68,
-    "title": "Senior Project Manager",
-    "name": "Jesse Moore",
+    "title": "Account Manager",
+    "name": "Gary Brown",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_275/v1505919615/headshot/0003_Jesse_Moore.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,h_300/v1505919963/expression/Jesse_Moore.png",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_275/v1505919615/headshot/Gary-Brown.png",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,h_300/v1505919963/expression/Gary-Brown_P.png",
     "socialmedia": [
       {
         "title": "Linkedin",
-        "url": "https://www.linkedin.com/in/williamjmoore/",
+        "url": "https://www.linkedin.com/in/garybrown4/",
         "icon": "icon-linkedin"
       }
     ],
     "bullets": [
       {
         "id": 1,
-        "body": "Favorite food is rice"
+        "body": "Bullet 1"
       },
       {
         "id": 2,
-        "body": "Scrolls tech blogs more than other people scroll Instagram"
+        "body": "Bullet 2"
       },
       {
         "id": 3,
-        "body": "Has a metal plate in his face which practically makes him IronMan"
+        "body": "Bullet 3"
       }
     ]
   },
