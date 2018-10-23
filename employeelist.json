@@ -1172,15 +1172,15 @@
   {
     "about": "Coming Soon.",
     "id": 67,
-    "title": "Group Managing Director",
-    "name": "Geoff Kahler",
+    "title": "Project Manager",
+    "name": "Ashley Jones",
     "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_275/v1510586083/Geoff_Kahler_2x_cpbc3d.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,h_300/v1510586083/Geoff_Kahler_2x_czizwp.png",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_275/v1512765629/headshot/Ashley.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,h_300/v1512765681/expression/ashley.png",
     "socialmedia": [
       {
         "title": "Linkedin",
-        "url": "https://www.linkedin.com/in/geoffkahler",
+        "url": "https://www.linkedin.com/in/ashley-jones-0a970012",
         "icon": "icon-linkedin"
       }
     ],
