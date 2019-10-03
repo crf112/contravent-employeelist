@@ -84,19 +84,17 @@
     
   ],
   "clientcard": [
-    {"id": 11,"company": "Adobe","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141324/clients/new-logos/logo_adobe_2017_gray.svg"},
-    {"id": 1,"company": "Aktana","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141322/clients/new-logos/aktana_logo_gray.svg"},
-    {"id": 5,"company": "ADA","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141321/clients/new-logos/ADA_logo_gray.svg"},
-    {"id": 7,"company": "Black Feather","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141321/clients/new-logos/BF_stacked_wordmark_logo_gray.svg"},
-    {"id": 1,"company": "Centurylink","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141322/clients/new-logos/CenturyLink_gray.svg"},
-    {"id": 12,"company": "Cheetah Digital","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141321/clients/new-logos/cheetah_digital_logo_gray.svg"},
-    {"id": 4,"company": "Egencia","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141321/clients/new-logos/Egencia_logo_gray.svg"},
-    {"id": 3,"company": "Instructure","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141321/clients/new-logos/2019_InstructureFinalMark_gray.svg"},
-    {"id": 8,"company": "Printer Logic","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141322/clients/new-logos/PrinterLogic_logo_gray.svg"},
-    {"id": 6,"company": "Seashine Capital","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141321/clients/new-logos/Seashine_Logo__Capital_Management__gray.svg"},
-    {"id": 2,"company": "Tab Bank","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141322/clients/new-logos/TAB_Bank_logo_gray.svg"},
-    {"id": 13,"company": "Vivint","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141323/clients/new-logos/Vivint_Smart_Home_Logo_gray.svg"},
-    {"id": 14,"company": "Workfront","logo": "https://res.cloudinary.com/conravent/image/upload/v1570141322/clients/new-logos/Workfront_logo_gray.svg"}
+    {"id": 11,"company": "Altus Group","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/altus_j0qo8s.svg"},
+    {"id": 1,"company": "Atlassian","logo": "http://res.cloudinary.com/conravent/image/upload/v1480620349/clients/atlassian-14_otfeex.svg"},
+    {"id": 5,"company": "Cascadia","logo": "http://res.cloudinary.com/conravent/image/upload/v1480620349/clients/cascadia-13_ufugrp.svg"},
+    {"id": 7,"company": "Cocoon","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/cocoon_lz7awx.svg"},
+    {"id": 1,"company": "CoStar Group","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/costar_lkn8hh.svg"},
+    {"id": 12,"company": "Desert Ridge","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/desert-ridge_vpgblr.svg"},
+    {"id": 4,"company": "G2","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/g2_vahwle.svg"},
+    {"id": 3,"company": "SalesForce","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/sales-force_oivax7.svg"},
+    {"id": 8,"company": "Skill Survey","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188016/clients/skill-survey_qftzot.svg"},
+    {"id": 6,"company": "Utah Pride","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188017/clients/pride_hshqq1.svg"},
+    {"id": 2,"company": "Vidgo","logo": "http://res.cloudinary.com/conravent/image/upload/v1478188017/clients/vidgo_orvwej.svg"}
   ]
 }
 
