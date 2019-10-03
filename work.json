@@ -84,19 +84,19 @@
     
   ],
   "clientcard": [
-    {"id": 11,"company": "Adobe","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143940/clients/new-logos/Asset_6.svg"},
-    {"id": 1,"company": "Aktana","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143938/clients/new-logos/Asset_11.svg"},
-    {"id": 5,"company": "ADA","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143939/clients/new-logos/Asset_12.svg"},
-    {"id": 1,"company": "Centurylink","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143939/clients/new-logos/Asset_9.svg"},
-    {"id": 12,"company": "Cheetah Digital","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143939/clients/new-logos/Asset_8.svg"},
-    {"id": 4,"company": "Egencia","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143941/clients/new-logos/Asset_7.svg"},
-    {"id": 3,"company": "Instructure","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143938/clients/new-logos/Asset_13.svg"},
-    {"id": 8,"company": "Printer Logic","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143940/clients/new-logos/Asset_5.svg"},
-    {"id": 6,"company": "Seashine Capital","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143940/clients/new-logos/Asset_4.svg"},
-    {"id": 2,"company": "Tab Bank","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143940/clients/new-logos/Asset_3.svg"},
-    {"id": 13,"company": "Vivint","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143940/clients/new-logos/Asset_2.svg"},
-    {"id": 7,"company": "Workfront","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143940/clients/new-logos/Asset_1.svg"},
-    {"id": 14,"company": "Black Feather","logo": "https://res.cloudinary.com/conravent/image/upload/v1570143939/clients/new-logos/Asset_10.svg"}
+    {"id": 11,"company": "Adobe","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146527/clients/new-logos/Asset_6.svg"},
+    {"id": 1,"company": "Aktana","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146524/clients/new-logos/Asset_11.svg"},
+    {"id": 5,"company": "ADA","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146525/clients/new-logos/Asset_12.svg"},
+    {"id": 1,"company": "Centurylink","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146525/clients/new-logos/Asset_9.svg"},
+    {"id": 12,"company": "Cheetah Digital","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146524/clients/new-logos/Asset_8.svg"},
+    {"id": 4,"company": "Egencia","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146527/clients/new-logos/Asset_7.svg"},
+    {"id": 3,"company": "Instructure","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146525/clients/new-logos/Asset_13.svg"},
+    {"id": 8,"company": "Printer Logic","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146527/clients/new-logos/Asset_5.svg"},
+    {"id": 6,"company": "Seashine Capital","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146527/clients/new-logos/Asset_4.svg"},
+    {"id": 2,"company": "Tab Bank","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146525/clients/new-logos/Asset_3.svg"},
+    {"id": 13,"company": "Vivint","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146526/clients/new-logos/Asset_2.svg"},
+    {"id": 7,"company": "Workfront","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146526/clients/new-logos/Asset_1.svg"},
+    {"id": 14,"company": "Black Feather","logo": "https://res.cloudinary.com/conravent/image/upload/v1570146525/clients/new-logos/Asset_10.svg"}
   ]
 }
 
