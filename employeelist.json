@@ -270,36 +270,6 @@
     ]
   },
   {
-    "about": "Defender of pit bulls, boeuf bourguignon chef extraordinaire, skilled pfifferlingen hunter, and Brown Coat.",
-    "id": 21,
-    "title": "Graphic Designer",
-    "name": "Elisha Frey",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1485965666/Elisha_Frey_ndmeq7.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485965717/Elisha_Frey_wqgwdt.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/elisha-frey-2a043385",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "624 individual Star Trek episodes watched"
-      },
-      {
-        "id": 2,
-        "body": "Countless ounces of wine consumed"
-      },
-      {
-        "id": 3,
-        "body": "923 miles traveled by French rail"
-      }
-    ]
-  },
-  {
     "about": "TBD",
     "id": 22,
     "title": "Production Designer",
@@ -450,66 +420,6 @@
     ]
   },
   {
-    "about": "Gotta keep travelin, golfer, snow boarder, Audi enthusiast, consummate builder",
-    "id": 30,
-    "title": "Managing Partner",
-    "name": "Ash Evans",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1485965549/Ash_evans_2017_vbldrm.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412089/Ash_Evans_g4uwax.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "My Family: My son Quinn the leukemia survivor, my daughter Claire the bone marrow donor and Laura, my wife, for keeping it all together. We are the lucky ones."
-      },
-      {
-        "id": 2,
-        "body": "Perspective: Dragged off the Tran Siberian Express from China in the middle of the night in Mongolia –36 took 4 bottles of Thai Whiskey to get my travel visa to pass through to Russia."
-      },
-      {
-        "id": 3,
-        "body": "Work passion: building coalitions with great people"
-      }
-    ]
-  },
-  {
-    "about": "Budget traveler, outdoor enthusiast, ponderer of young daughter’s thought process, below average gardener, above average coffee consumer, aspiring carpenter",
-    "id": 31,
-    "title": "Group Account Director",
-    "name": "Jeff Spencer",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530817/headshot/Jeff_Spencer_ld6uqm.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412093/Jeff_Spencer_uwlde3.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/jeff-spencer-1537294",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Longest bus ride - 36 hours"
-      },
-      {
-        "id": 2,
-        "body": "Average number of status sheets kept - 4"
-      },
-      {
-        "id": 3,
-        "body": "My wife and I brought together by a stray dog"
-      }
-    ]
-  },
-  {
     "about": "Builder, driven, passionate, tennis junkie, musical wannabe",
     "id": 32,
     "title": "CEO",
@@ -596,36 +506,6 @@
       {
         "id": 3,
         "body": "14 countries visited"
-      }
-    ]
-  },
-  {
-    "about": "Doesn't write code. Stares at the computer screen until he gets the program he wants.",
-    "id": 38,
-    "title": "Senior Developer",
-    "name": "Jake Astle",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530816/headshot/Jake_Astle_hpynnl.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412093/Jake_Astle_ggn3fs.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/jake-astle",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "It&#39;s not a bug, it&#39;s a feature."
-      },
-      {
-        "id": 2,
-        "body": "Knock, knock. Who&#39;s there? very long pause…. Java."
-      },
-      {
-        "id": 3,
-        "body": "Still trying to win an Oscar every time steps on a soccer field."
       }
     ]
   },
@@ -960,36 +840,6 @@
     ]
   },
   {
-    "about": "Speaks British-English fluently, dreams in code but not like the Matrix, Matt Damon look-a-like, lived in Boston England for 15 years.",
-    "id": 58,
-    "title": "AEM Author",
-    "name": "Jared Shami",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530816/headshot/Jared_Shami_iyemfk.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412093/Jared_Shami_ocqrch.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/-shami-84a84025",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Could live on cereal forever"
-      },
-      {
-        "id": 2,
-        "body": "Appeared in a TV Movie on USA Network"
-      },
-      {
-        "id": 3,
-        "body": "Sported a MacGyver mullet as a child"
-      }
-    ]
-  },
-  {
     "about": "Matt brings his life-long love of puzzles to the office every day when he completes 1 rubiks cube (minimum) with one hand per meeting.",
     "id": 59,
     "title": "Founder & Partner",
@@ -1076,36 +926,6 @@
       {
         "id": 3,
         "body": "Eats tacos"
-      }
-    ]
-  },
-  {
-    "about": "Ali's thoughts travel to far off destinations so they may have a chance of finding a place where they’re far more suited than here ",
-    "id": 64,
-    "title": "Project Manager",
-    "name": "Ali Reighard",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_275/v1505919616/headshot/0008_Ali_Reighard.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,h_300/v1505919963/expression/Ali_Reighard.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "https://www.linkedin.com/company/contravent-media",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Shreds Snowbird on the reg"
-      },
-      {
-        "id": 2,
-        "body": "Flies like a butterfly, stings like a bee"
-      },
-      {
-        "id": 3,
-        "body": "Tourer of places"
       }
     ]
   },
@@ -1200,36 +1020,6 @@
     ]
   },
   {
-    "about": "Can usually be found wandering the mountains, working to achieve the perfect yard, or making a mess in the kitchen. (Even better with an IPA)",
-    "id": 69,
-    "title": "Strategy Director – Engagement",
-    "name": "Jillian White",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_275/v1505919616/headshot/0004_Jillian_White.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,h_300/v1505919963/expression/Jillian_White.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "https://www.linkedin.com/in/jillian-white-35220258/",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Loves a really good Dad joke"
-      },
-      {
-        "id": 2,
-        "body": "Thinks her dog is the best thing since sliced bread"
-      },
-      {
-        "id": 3,
-        "body": "I’m sure at some point I’ll use the line 'When I lived in Colorado…'"
-      }
-    ]
-  },
-  {
     "about": "I think, feel and do. I think all things water are amazing (except drinking it), I feel I am a disruptive builder of 'things', and I do love Legos",
     "id": 70,
     "title": "Account Director",
@@ -1256,36 +1046,6 @@
       {
         "id": 3,
         "body": "Best season of the year, football season"
-      }
-    ]
-  },
-  {
-    "about": "Lover of chocolate milk, dreams of owning a Ferrari, likes to plant flowers, father of daughters, novice cyclist, retired clogging and ballroom dancer.",
-    "id": 71,
-    "title": "Account Director",
-    "name": "Ryan Ahlstrom",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1505919615/headshot/0000_Ryan_Ahlstrom.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1505919964/expression/Ryan_Ahlstrom.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "https://www.linkedin.com/in/ryan-ahlstrom-a32820/",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Brain is 60% account service, 40% creative. Seriously, only an account guy would assign numbers to a brain."
-      },
-      {
-        "id": 2,
-        "body": "Appeared on Star Search"
-      },
-      {
-        "id": 3,
-        "body": "Can cross eyes, one at a time"
       }
     ]
   },
