@@ -90,36 +90,6 @@
     ]
   },
   {
-    "about": "Botany lover, #1 Patriots hater, Ravenclaw / ENTJ / Earth Bender, Stephen Colbert’s future wife",
-    "id": 6,
-    "title": "Senior Designer",
-    "name": "Raisa Kuddus",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1485965853/Raisa_Kuddus_yvq8jo.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412100/Raisa_Kuddus_u39s9n.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/raisakuddus",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Hours of Sims (1,2,3 & 4) played in my lifetime: 7,442"
-      },
-      {
-        "id": 2,
-        "body": "Font rapper name: Wing Dinga"
-      },
-      {
-        "id": 3,
-        "body": "0 lifetime cavities and broken bones"
-      }
-    ]
-  },
-  {
     "about": "Inventor, ukulele lover, the &quot;fun&quot; grandpa. A pillow is my peace of mind.",
     "id": 8,
     "title": "VP Strategy",
@@ -266,36 +236,6 @@
       {
         "id": 3,
         "body": "Will work for chocolate"
-      }
-    ]
-  },
-  {
-    "about": "TBD",
-    "id": 22,
-    "title": "Production Designer",
-    "name": "Tom Sturzenegger",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1512765630/headshot/Tom.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1512765684/expression/Tom.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "https://www.linkedin.com/in/thomas-sturzenegger-5a9431a6",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "TBD"
-      },
-      {
-        "id": 2,
-        "body": "TBD"
-      },
-      {
-        "id": 3,
-        "body": "TBD"
       }
     ]
   },
@@ -930,36 +870,6 @@
     ]
   },
   {
-    "about": "Annie is a native of where she was born and loves travelling back home sometimes.",
-    "id": 66,
-    "title": "Copywriter",
-    "name": "Annie Ireland",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1485964862/headshot/Annie_Ireland_llrllz.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485964862/expression/Annie_Ireland_slz4tp.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/annieireland/",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Sometimes goes on staycation"
-      },
-      {
-        "id": 2,
-        "body": "Enjoys snowshoeing to the office especially in summer months"
-      },
-      {
-        "id": 3,
-        "body": "Proposed a cross-country skiing lane on Interstate 15 to congress"
-      }
-    ]
-  },
-  {
     "about": "Coming Soon.",
     "id": 67,
     "title": "Project Manager",
@@ -1016,36 +926,6 @@
       {
         "id": 3,
         "body": "Two wheels, one word: Ducati"
-      }
-    ]
-  },
-  {
-    "about": "I think, feel and do. I think all things water are amazing (except drinking it), I feel I am a disruptive builder of 'things', and I do love Legos",
-    "id": 70,
-    "title": "Account Director",
-    "name": "Jeremy Tippetts",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,w_275/v1505919615/headshot/0002_Jeremy_Tippetts.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,f_auto,h_300/v1505919963/expression/Jeremy_Tippetts.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "https://www.linkedin.com/in/jeremytippetts/",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "I leap from tall buildings and land face first"
-      },
-      {
-        "id": 2,
-        "body": "Boomerangs are awesome; right?"
-      },
-      {
-        "id": 3,
-        "body": "Best season of the year, football season"
       }
     ]
   },
