@@ -1121,7 +1121,7 @@
   },
   {
     "about": "I put the “Zac” in Prozac.",
-    "id": 78,
+    "id": 79,
     "title": "Designer",
     "name": "Zac Fox",
     "team": "engage",
@@ -1146,7 +1146,7 @@
   },
   {
     "about": "Feral ghoul and part-time karaoke star with a small black cat farm. Gets aggressive after two cups of green tea.",
-    "id": 79,
+    "id": 80,
     "title": "Designer",
     "name": "Anastasiya Bobrova",
     "team": "engage",
@@ -1166,6 +1166,56 @@
       {
         "id": 3,
         "body": "Has never bought a pair of jeans that aren’t 20 years old."
+      }
+    ]
+  },
+  {
+    "about": "Car fanatic, Apple fanboy, tennis junkie, and all-round people pleaser.",
+    "id": 81,
+    "title": "Project Manager",
+    "name": "Jakob Kempema",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1573769668/headshot/JAKOB.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1573769793/expression/JAKOB_SECONDARY.png",
+    "socialmedia": [
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "2nd grade crush discovered I was colorblind"
+      },
+      {
+        "id": 2,
+        "body": "Left-handed"
+      },
+      {
+        "id": 3,
+        "body": "Nationally ranked tennis player"
+      }
+    ]
+  },
+  {
+    "about": "Hey now, you're an all-star, get your game on, go play. Hey now, you're a rock star, get the show on, get paid. And all that glitters is gold, Only shooting stars break the mold.",
+    "id": 82,
+    "title": "Designer",
+    "name": "Katie Dougherty",
+    "team": "engage",
+    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1573769671/headshot/KATIE.jpg",
+    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1573769797/expression/KATIE_SECONDARY.png",
+    "socialmedia": [
+    ],
+    "bullets": [
+      {
+        "id": 1,
+        "body": "Somebody once told me the world is gonna roll me."
+      },
+      {
+        "id": 2,
+        "body": "I ain't the sharpest tool in the shed."
+      },
+      {
+        "id": 3,
+        "body": "She was looking kind of dumb with her finger and her thumb In the shape of an \"L\" on her forehead."
       }
     ]
   }
