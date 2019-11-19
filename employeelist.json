@@ -1220,7 +1220,7 @@
     ]
   },
   {
-    "about": "Sun seeker and fitness enthusiast, always says no to McDonald's and yes to all things Disney. Facts: 1. active member of her college sorority alumni board. 2. Water: room temperature please! 3. Lives by a Brene Brown quote \"You are responsible for the energy you bring into this room\"",
+    "about": "Sun seeker and fitness enthusiast, always says no to McDonald's and yes to all things Disney.",
     "id": 83,
     "title": "Account Director",
     "name": "Brooke Knudtson",
@@ -1232,15 +1232,15 @@
     "bullets": [
       {
         "id": 1,
-        "body": "Never gonna give you up."
+        "body": "Active member of her college sorority alumni board."
       },
       {
         "id": 2,
-        "body": "Never gonna let you down."
+        "body": "Water: room temperature please!"
       },
       {
         "id": 3,
-        "body": "Never gonna run around and desert you."
+        "body": "Lives by a Brene Brown quote \"You are responsible for the energy you bring into this room\""
       }
     ]
   },
