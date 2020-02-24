@@ -540,36 +540,6 @@
     ]
   },
   {
-    "about": "Former Navy Seal and chef who also holds the record for the longest haiku ever written.",
-    "id": 54,
-    "title": "Project Manager",
-    "name": "Rilee Buttars",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530819/headshot/Rilee_Buttars_ibtczi.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412100/Rilee_Buttars_lbih5k.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/rileebuttars",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "She commutes to work everyday in a hot air balloon"
-      },
-      {
-        "id": 2,
-        "body": "Everything she eats, she eats with her bare hands. Even soup."
-      },
-      {
-        "id": 3,
-        "body": "When she gets on the furniture, we spray her with a plant mister"
-      }
-    ]
-  },
-  {
     "about": "Working with Phil is like walking in a meadow at dusk. He is beautiful and has pretty colors and smells like the promise of tomorrow.",
     "id": 56,
     "title": "Creative Director",
