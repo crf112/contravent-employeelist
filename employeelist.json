@@ -1058,30 +1058,5 @@
         "body": "Hockey"
       }
     ]
-  },
-  {
-    "about": "I get knocked down, But I get up again, You're never gonna keep me down. I get knocked down, But I get up again, You're never gonna keep me down.",
-    "id": 85,
-    "title": "Project Manager",
-    "name": "John Perri",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1573769669/headshot/JOHN.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1573769795/expression/JOHN_SECONDARY.png",
-    "socialmedia": [
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "He drinks a whiskey drink"
-      },
-      {
-        "id": 2,
-        "body": "He drinks a vodka drink"
-      },
-      {
-        "id": 3,
-        "body": "He drinks a lager drink"
-      }
-    ]
   }
 ]
