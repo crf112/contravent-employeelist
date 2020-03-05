@@ -1,35 +1,5 @@
 [
   {
-    "about": "Steve Job's and Lady Gaga's secret love child, tabby cat enthusiast, and loves technology more than Daft Punk.",
-    "id": 3,
-    "title": "Designer",
-    "name": "Noah Kuddus",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1480530819/headshot/Noah_Kuddus_nrdzhl.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1485412100/Noah_Kuddus_uqcekf.png",
-    "socialmedia": [
-      {
-        "title": "Linkedin",
-        "url": "http://www.linkedin.com/in/johurimam",
-        "icon": "icon-linkedin"
-      }
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "138 nintendo games, metroid, zelda … all of them"
-      },
-      {
-        "id": 2,
-        "body": "Font rapper name: Papy Rus"
-      },
-      {
-        "id": 3,
-        "body": "42 inches cumulative platform shoe height"
-      }
-    ]
-  },
-  {
     "about": "Inventor, ukulele lover, the &quot;fun&quot; grandpa. A pillow is my peace of mind.",
     "id": 8,
     "title": "VP Strategy",
@@ -1001,31 +971,6 @@
       {
         "id": 3,
         "body": "Lives by a Brene Brown quote \"You are responsible for the energy you bring into this room\""
-      }
-    ]
-  },
-  {
-    "about": "Traveling the world while tasting all the whiskey and taking every majestic Instagram photo.",
-    "id": 84,
-    "title": "Project Manager",
-    "name": "Lisa Stewart",
-    "team": "engage",
-    "headshot": "http://res.cloudinary.com/conravent/image/upload/c_scale,w_275,f_auto/v1573769674/headshot/LISA.jpg",
-    "expression": "http://res.cloudinary.com/conravent/image/upload/c_scale,h_300,f_auto/v1573769799/expression/LISA_SECONDARY.png",
-    "socialmedia": [
-    ],
-    "bullets": [
-      {
-        "id": 1,
-        "body": "Walks her Bengal on a leash around the neighborhood."
-      },
-      {
-        "id": 2,
-        "body": "Has seen Tool 12 times "
-      },
-      {
-        "id": 3,
-        "body": "Hockey"
       }
     ]
   }
